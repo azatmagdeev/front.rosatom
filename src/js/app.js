@@ -33,7 +33,7 @@ form.addEventListener('submit',(e)=>{
 
         loadingGif();
         setTimeout(()=>{
-            window.location.href='portal';
+            window.location.href = window.location.href + 'portal';
             loadingGifEnd()
         },2000)
     }
