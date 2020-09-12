@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/azatmagdeev/front.rosatom#readme",
   "dependencies": {
+    "bootstrap": "^4.5.2",
     "live-server": "^1.2.1"
   }
 }
