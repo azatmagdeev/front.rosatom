@@ -1,0 +1,2871 @@
+<BicCode name="BIC CODES">
+    <script/>
+    <Record ID="1" DU="21.08.1992">
+        <ShortName>СИБСОЦБАНК</ShortName>
+        <Bic>040173745</Bic>
+    </Record>
+    <Record ID="2" DU="16.11.1990">
+        <ShortName>ТАЛЬМЕНКА-БАНК</ShortName>
+        <Bic>040173749</Bic>
+    </Record>
+    <Record ID="3" DU="13.05.1993">
+        <ShortName>ЗЕРНОБАНК</ShortName>
+        <Bic>040173754</Bic>
+    </Record>
+    <Record ID="4" DU="21.01.1994">
+        <ShortName>АЛТАЙКАПИТАЛБАНК</ShortName>
+        <Bic>040173771</Bic>
+    </Record>
+    <Record ID="5" DU="10.10.1990">
+        <ShortName>КРЫЛОВСКИЙ</ShortName>
+        <Bic>040349569</Bic>
+    </Record>
+    <Record ID="6" DU="15.10.1990">
+        <ShortName>КУБАНЬТОРГБАНК</ShortName>
+        <Bic>040349718</Bic>
+    </Record>
+    <Record ID="7" DU="28.09.1993">
+        <ShortName>КУБАНЬ КРЕДИТ</ShortName>
+        <Bic>040349722</Bic>
+    </Record>
+    <Record ID="8" DU="10.06.1994">
+        <ShortName>КУБАНСКИЙ УНИВЕРСАЛЬНЫЙ БАНК</ShortName>
+        <Bic>040349745</Bic>
+    </Record>
+    <Record ID="9" DU="01.10.1990">
+        <ShortName>ИДЕЯ БАНК</ShortName>
+        <Bic>040349772</Bic>
+    </Record>
+    <Record ID="10" DU="31.10.1990">
+        <ShortName>ГАЗТРАНСБАНК</ShortName>
+        <Bic>040349789</Bic>
+    </Record>
+    <Record ID="11" DU="12.05.2009">
+        <ShortName>ЮМК БАНК</ShortName>
+        <Bic>040349830</Bic>
+    </Record>
+    <Record ID="12" DU="05.12.1994">
+        <ShortName>ВНЕШФИНБАНК</ShortName>
+        <Bic>040349909</Bic>
+    </Record>
+    <Record ID="13" DU="05.04.1994">
+        <ShortName>ЮГ-ИНВЕСТБАНК</ShortName>
+        <Bic>040349966</Bic>
+    </Record>
+    <Record ID="14" DU="14.11.1990">
+        <ShortName>ГЕЛЕНДЖИК-БАНК</ShortName>
+        <Bic>040395950</Bic>
+    </Record>
+    <Record ID="15" DU="21.11.1990">
+        <ShortName>КАНСКИЙ</ShortName>
+        <Bic>040407427</Bic>
+    </Record>
+    <Record ID="16" DU="06.01.1994">
+        <ShortName>ЕНИСЕЙСКИЙ ОБЪЕДИНЕННЫЙ БАНК</ShortName>
+        <Bic>040407523</Bic>
+    </Record>
+    <Record ID="17" DU="19.05.2008">
+        <ShortName>КРАСНОЯРСКИЙ КРАЕВОЙ РАСЧЕТНЫЙ ЦЕНТР</ShortName>
+        <Bic>040407686</Bic>
+    </Record>
+    <Record ID="18" DU="12.10.1990">
+        <ShortName>ЕНИСЕЙ</ShortName>
+        <Bic>040407795</Bic>
+    </Record>
+    <Record ID="19" DU="04.01.1991">
+        <ShortName>СОЛИД БАНК</ShortName>
+        <Bic>040507595</Bic>
+    </Record>
+    <Record ID="20" DU="20.11.1990">
+        <ShortName>ДАЛЬНЕВОСТОЧНЫЙ БАНК</ShortName>
+        <Bic>040507705</Bic>
+    </Record>
+    <Record ID="21" DU="25.06.1992">
+        <ShortName>РКЦ ДВ</ShortName>
+        <Bic>040507707</Bic>
+    </Record>
+    <Record ID="22" DU="06.12.1991">
+        <ShortName>ПРИМОРСКИЙ ТЕРРИТОРИАЛЬНЫЙ</ShortName>
+        <Bic>040507717</Bic>
+    </Record>
+    <Record ID="23" DU="14.11.1990">
+        <ShortName>РОЯЛ КРЕДИТ БАНК</ShortName>
+        <Bic>040507750</Bic>
+    </Record>
+    <Record ID="24" DU="27.07.1994">
+        <ShortName>ПРИМОРЬЕ</ShortName>
+        <Bic>040507795</Bic>
+    </Record>
+    <Record ID="25" DU="04.03.1994">
+        <ShortName>ПРИМСОЦБАНК</ShortName>
+        <Bic>040507803</Bic>
+    </Record>
+    <Record ID="26" DU="22.04.1991">
+        <ShortName>САММИТ БАНК</ShortName>
+        <Bic>040507840</Bic>
+    </Record>
+    <Record ID="27" DU="26.12.1990">
+        <ShortName>СТАВРОПОЛЬПРОМСТРОЙБАНК</ShortName>
+        <Bic>040702760</Bic>
+    </Record>
+    <Record ID="28" DU="26.12.1994">
+        <ShortName>КОНТИНЕНТАЛЬ</ShortName>
+        <Bic>040708744</Bic>
+    </Record>
+    <Record ID="29" DU="14.11.1990">
+        <ShortName>РУССКИЙ БАНК СБЕРЕЖЕНИЙ</ShortName>
+        <Bic>040715725</Bic>
+    </Record>
+    <Record ID="30" DU="12.05.1991">
+        <ShortName>ВОСТОЧНЫЙ</ShortName>
+        <Bic>041012718</Bic>
+    </Record>
+    <Record ID="31" DU="30.11.1992">
+        <ShortName>ВОСТОККРЕДИТБАНК</ShortName>
+        <Bic>041012745</Bic>
+    </Record>
+    <Record ID="32" DU="14.02.1992">
+        <ShortName>АЗИАТСКО-ТИХООКЕАНСКИЙ БАНК</ShortName>
+        <Bic>041012765</Bic>
+    </Record>
+    <Record ID="33" DU="09.02.1993">
+        <ShortName>СЕВЕРНАЯ КЛИРИНГОВАЯ ПАЛАТА</ShortName>
+        <Bic>041117309</Bic>
+    </Record>
+    <Record ID="34" DU="05.12.1990">
+        <ShortName>КОНСЕРВАТИВНЫЙ КОММЕРЧЕСКИЙ БАНК</ShortName>
+        <Bic>041203711</Bic>
+    </Record>
+    <Record ID="35" DU="13.04.1992">
+        <ShortName>ЕАТП БАНК</ShortName>
+        <Bic>041203715</Bic>
+    </Record>
+    <Record ID="36" DU="06.07.1992">
+        <ShortName>АГРОИНКОМБАНК</ShortName>
+        <Bic>041203726</Bic>
+    </Record>
+    <Record ID="37" DU="29.11.1990">
+        <ShortName>ВКАБАНК</ShortName>
+        <Bic>041203729</Bic>
+    </Record>
+    <Record ID="38" DU="31.10.1990">
+        <ShortName>БЕЛГОРОДСОЦБАНК</ShortName>
+        <Bic>041403701</Bic>
+    </Record>
+    <Record ID="39" DU="03.12.1990">
+        <ShortName>СТАРООСКОЛЬСКИЙ АГРОПРОМБАНК</ShortName>
+        <Bic>041403725</Bic>
+    </Record>
+    <Record ID="40" DU="19.01.1993">
+        <ShortName>ВЛАДБИЗНЕСБАНК</ShortName>
+        <Bic>041708706</Bic>
+    </Record>
+    <Record ID="41" DU="21.11.1990">
+        <ShortName>ВЛАДИМИРСКИЙ ПРОМЫШЛЕННЫЙ БАНК</ShortName>
+        <Bic>041708708</Bic>
+    </Record>
+    <Record ID="42" DU="25.01.1995">
+        <ShortName>НОКССБАНК</ShortName>
+        <Bic>041806831</Bic>
+    </Record>
+    <Record ID="43" DU="11.03.2012">
+        <ShortName>СЕВЕРСТРОЙБАНК</ShortName>
+        <Bic>041909707</Bic>
+    </Record>
+    <Record ID="44" DU="28.11.1990">
+        <ShortName>ВОЛОГДАБАНК</ShortName>
+        <Bic>041909717</Bic>
+    </Record>
+    <Record ID="45" DU="21.05.1992">
+        <ShortName>ВОЛОГЖАНИН</ShortName>
+        <Bic>041909760</Bic>
+    </Record>
+    <Record ID="46" DU="25.06.1993">
+        <ShortName>СЕВЕРНЫЙ КРЕДИТ</ShortName>
+        <Bic>041909769</Bic>
+    </Record>
+    <Record ID="47" DU="04.03.1994">
+        <ShortName>ПРОМЭНЕРГОБАНК</ShortName>
+        <Bic>041909772</Bic>
+    </Record>
+    <Record ID="48" DU="29.04.1994">
+        <ShortName>БАНК СГБ</ShortName>
+        <Bic>041909786</Bic>
+    </Record>
+    <Record ID="49" DU="28.11.1990">
+        <ShortName>БУМЕРАНГ</ShortName>
+        <Bic>041946748</Bic>
+    </Record>
+    <Record ID="50" DU="27.07.1992">
+        <ShortName>НБД-БАНК</ShortName>
+        <Bic>042202705</Bic>
+    </Record>
+    <Record ID="51" DU="28.08.1992">
+        <ShortName>САРОВБИЗНЕСБАНК</ShortName>
+        <Bic>042202718</Bic>
+    </Record>
+    <Record ID="52" DU="24.06.2005">
+        <ShortName>ФОРУС БАНК</ShortName>
+        <Bic>042202720</Bic>
+    </Record>
+    <Record ID="53" DU="07.12.1990">
+        <ShortName>ХИМИК</ShortName>
+        <Bic>042202727</Bic>
+    </Record>
+    <Record ID="54" DU="24.12.1990">
+        <ShortName>АРЗАМАС</ShortName>
+        <Bic>042202731</Bic>
+    </Record>
+    <Record ID="55" DU="24.12.1990">
+        <ShortName>БОГОРОДСКИЙ</ShortName>
+        <Bic>042202733</Bic>
+    </Record>
+    <Record ID="56" DU="19.01.1994">
+        <ShortName>ПК-БАНК</ShortName>
+        <Bic>042202735</Bic>
+    </Record>
+    <Record ID="57" DU="27.12.1990">
+        <ShortName>БОРСКИЙ КОММЕРЧЕСКИЙ БАНК</ShortName>
+        <Bic>042202753</Bic>
+    </Record>
+    <Record ID="58" DU="23.04.1992">
+        <ShortName>ЕВРОАЛЬЯНС</ShortName>
+        <Bic>042406701</Bic>
+    </Record>
+    <Record ID="59" DU="30.10.1992">
+        <ShortName>АКЦИЯ</ShortName>
+        <Bic>042406707</Bic>
+    </Record>
+    <Record ID="60" DU="07.07.1992">
+        <ShortName>НАЦИОНАЛЬНЫЙ БАНК СБЕРЕЖЕНИЙ</ShortName>
+        <Bic>042406718</Bic>
+    </Record>
+    <Record ID="61" DU="28.01.1993">
+        <ShortName>КРАНБАНК</ShortName>
+        <Bic>042406738</Bic>
+    </Record>
+    <Record ID="62" DU="29.05.2013">
+        <ShortName>ИНЭКО</ShortName>
+        <Bic>042406807</Bic>
+    </Record>
+    <Record ID="63" DU="18.12.1990">
+        <ShortName>ВАШ ЛИЧНЫЙ БАНК</ShortName>
+        <Bic>042520764</Bic>
+    </Record>
+    <Record ID="64" DU="14.12.1990">
+        <ShortName>ГРИНКОМБАНК</ShortName>
+        <Bic>042520811</Bic>
+    </Record>
+    <Record ID="65" DU="17.09.1993">
+        <ShortName>КРОНА-БАНК</ShortName>
+        <Bic>042520840</Bic>
+    </Record>
+    <Record ID="66" DU="10.12.1990">
+        <ShortName>БРАТСКИЙ АНКБ</ShortName>
+        <Bic>042520842</Bic>
+    </Record>
+    <Record ID="67" DU="20.07.1994">
+        <ShortName>БАЙКАЛКРЕДОБАНК</ShortName>
+        <Bic>042520872</Bic>
+    </Record>
+    <Record ID="68" DU="27.12.1990">
+        <ShortName>ЭНЕРГОТРАНСБАНК</ShortName>
+        <Bic>042748701</Bic>
+    </Record>
+    <Record ID="69" DU="23.11.1990">
+        <ShortName>ТОРЖОК</ShortName>
+        <Bic>042809953</Bic>
+    </Record>
+    <Record ID="70" DU="14.12.1990">
+        <ShortName>МЕЖДУНАРОДНЫЙ ТОРГОВО-ПРОМЫШЛЕННЫЙ БАНК</ShortName>
+        <Bic>042809990</Bic>
+    </Record>
+    <Record ID="71" DU="30.11.1990">
+        <ShortName>ГЕФЕСТ</ShortName>
+        <Bic>042809992</Bic>
+    </Record>
+    <Record ID="72" DU="19.05.1995">
+        <ShortName>ГАЗЭНЕРГОБАНК</ShortName>
+        <Bic>042908701</Bic>
+    </Record>
+    <Record ID="73" DU="11.12.1990">
+        <ShortName>КАЛУГА</ShortName>
+        <Bic>042908748</Bic>
+    </Record>
+    <Record ID="74" DU="06.03.1991">
+        <ShortName>ЭЛИТА</ShortName>
+        <Bic>042908762</Bic>
+    </Record>
+    <Record ID="75" DU="04.09.1992">
+        <ShortName>МУНИЦИПАЛЬНЫЙ КАМЧАТПРОФИТБАНК</ShortName>
+        <Bic>043002717</Bic>
+    </Record>
+    <Record ID="76" DU="01.06.1992">
+        <ShortName>БАНК РАЗВИТИЯ БИЗНЕСА</ShortName>
+        <Bic>043207776</Bic>
+    </Record>
+    <Record ID="77" DU="18.09.1992">
+        <ShortName>ТАЙДОН</ShortName>
+        <Bic>043207780</Bic>
+    </Record>
+    <Record ID="78" DU="03.06.1994">
+        <ShortName>КУЗБАССХИМБАНК</ShortName>
+        <Bic>043207793</Bic>
+    </Record>
+    <Record ID="79" DU="31.05.1994">
+        <ShortName>НОВОКУЗНЕЦКИЙ МУНИЦИПАЛЬНЫЙ БАНК</ShortName>
+        <Bic>043209705</Bic>
+    </Record>
+    <Record ID="80" DU="10.06.1994">
+        <ShortName>БИЗНЕС-СЕРВИС-ТРАСТ</ShortName>
+        <Bic>043209706</Bic>
+    </Record>
+    <Record ID="81" DU="12.12.1990">
+        <ShortName>КУЗНЕЦКБИЗНЕСБАНК</ShortName>
+        <Bic>043209740</Bic>
+    </Record>
+    <Record ID="82" DU="03.04.1992">
+        <ShortName>НОВОКИБ</ShortName>
+        <Bic>043209770</Bic>
+    </Record>
+    <Record ID="83" DU="06.03.1990">
+        <ShortName>ХЛЫНОВ</ShortName>
+        <Bic>043304711</Bic>
+    </Record>
+    <Record ID="84" DU="22.11.1990">
+        <ShortName>НОРВИК БАНК</ShortName>
+        <Bic>043304728</Bic>
+    </Record>
+    <Record ID="85" DU="09.10.1995">
+        <ShortName>ПЕРВЫЙ ДОРТРАНСБАНК</ShortName>
+        <Bic>043304757</Bic>
+    </Record>
+    <Record ID="86" DU="07.12.1990">
+        <ShortName>КОСТРОМАСЕЛЬКОМБАНК</ShortName>
+        <Bic>043469720</Bic>
+    </Record>
+    <Record ID="87" DU="27.11.1990">
+        <ShortName>СОВКОМБАНК</ShortName>
+        <Bic>043469743</Bic>
+    </Record>
+    <Record ID="88" DU="23.06.1992">
+        <ShortName>МОДУЛЬБАНК</ShortName>
+        <Bic>043469751</Bic>
+    </Record>
+    <Record ID="89" DU="13.08.2014">
+        <ShortName>БАНК ЧБРР</ShortName>
+        <Bic>043510101</Bic>
+    </Record>
+    <Record ID="90" DU="13.09.1993">
+        <ShortName>ГЕНБАНК</ShortName>
+        <Bic>043510123</Bic>
+    </Record>
+    <Record ID="91" DU="25.01.1991">
+        <ShortName>РОССИЙСКИЙ НАЦИОНАЛЬНЫЙ КОММЕРЧЕСКИЙ БАНК</ShortName>
+        <Bic>043510607</Bic>
+    </Record>
+    <Record ID="92" DU="26.12.1997">
+        <ShortName>ПЛАТЕЖИ И РАСЧЕТЫ</ShortName>
+        <Bic>043601592</Bic>
+    </Record>
+    <Record ID="93" DU="23.10.1990">
+        <ShortName>СОЛИДАРНОСТЬ</ShortName>
+        <Bic>043601706</Bic>
+    </Record>
+    <Record ID="94" DU="27.04.1990">
+        <ShortName>ВОЛГО-КАМСКИЙ БАНК</ShortName>
+        <Bic>043601709</Bic>
+    </Record>
+    <Record ID="95" DU="30.07.1996">
+        <ShortName>КОШЕЛЕВ-БАНК</ShortName>
+        <Bic>043601742</Bic>
+    </Record>
+    <Record ID="96" DU="05.12.1990">
+        <ShortName>СПУТНИК</ShortName>
+        <Bic>043601806</Bic>
+    </Record>
+    <Record ID="97" DU="16.06.1994">
+        <ShortName>ЗЕМСКИЙ БАНК</ShortName>
+        <Bic>043601811</Bic>
+    </Record>
+    <Record ID="98" DU="09.06.1994">
+        <ShortName>НИБ</ShortName>
+        <Bic>043601842</Bic>
+    </Record>
+    <Record ID="99" DU="21.07.1993">
+        <ShortName>ВОЛЖСКИЙ СОЦИАЛЬНЫЙ БАНК</ShortName>
+        <Bic>043601869</Bic>
+    </Record>
+    <Record ID="100" DU="29.07.1994">
+        <ShortName>АКТИВКАПИТАЛ БАНК</ShortName>
+        <Bic>043601878</Bic>
+    </Record>
+    <Record ID="101" DU="19.10.1994">
+        <ShortName>ПРИОРИТЕТ</ShortName>
+        <Bic>043601919</Bic>
+    </Record>
+    <Record ID="102" DU="11.12.1990">
+        <ShortName>ВОЛГА-КРЕДИТ</ShortName>
+        <Bic>043601933</Bic>
+    </Record>
+    <Record ID="103" DU="12.05.1992">
+        <ShortName>РУСФИНАНС БАНК</ShortName>
+        <Bic>043601975</Bic>
+    </Record>
+    <Record ID="104" DU="21.09.1993">
+        <ShortName>ТОЛЬЯТТИХИМБАНК</ShortName>
+        <Bic>043678838</Bic>
+    </Record>
+    <Record ID="105" DU="29.11.1990">
+        <ShortName>ЭЛ БАНК</ShortName>
+        <Bic>043678859</Bic>
+    </Record>
+    <Record ID="106" DU="25.10.1993">
+        <ShortName>ФИА-БАНК</ShortName>
+        <Bic>043678929</Bic>
+    </Record>
+    <Record ID="107" DU="20.11.1990">
+        <ShortName>КЕТОВСКИЙ КОММЕРЧЕСКИЙ БАНК</ShortName>
+        <Bic>043735821</Bic>
+    </Record>
+    <Record ID="108" DU="09.11.1993">
+        <ShortName>КУРГАН</ShortName>
+        <Bic>043735830</Bic>
+    </Record>
+    <Record ID="109" DU="26.02.1997">
+        <ShortName>21 ВЕК</ShortName>
+        <Bic>044030301</Bic>
+    </Record>
+    <Record ID="110" DU="30.07.2013">
+        <ShortName>МОБИЛЬНАЯ КАРТА</ShortName>
+        <Bic>044030303</Bic>
+    </Record>
+    <Record ID="111" DU="18.11.1996">
+        <ShortName>ПЕТЕРБУРГСКИЙ РАСЧЕТНЫЙ ЦЕНТР</ShortName>
+        <Bic>044030505</Bic>
+    </Record>
+    <Record ID="112" DU="30.12.1994">
+        <ShortName>СИТИ ИНВЕСТ БАНК</ShortName>
+        <Bic>044030702</Bic>
+    </Record>
+    <Record ID="113" DU="13.12.1994">
+        <ShortName>БАЛТИНВЕСТБАНК</ShortName>
+        <Bic>044030705</Bic>
+    </Record>
+    <Record ID="114" DU="06.11.1992">
+        <ShortName>СЕВЗАПИНВЕСТПРОМБАНК</ShortName>
+        <Bic>044030724</Bic>
+    </Record>
+    <Record ID="115" DU="03.04.1996">
+        <ShortName>ФИНАНСОВЫЙ КАПИТАЛ</ShortName>
+        <Bic>044030741</Bic>
+    </Record>
+    <Record ID="116" DU="15.03.1995">
+        <ShortName>СЭБ БАНК</ShortName>
+        <Bic>044030747</Bic>
+    </Record>
+    <Record ID="117" DU="03.12.1991">
+        <ShortName>ЭНЕРГОМАШБАНК</ShortName>
+        <Bic>044030754</Bic>
+    </Record>
+    <Record ID="118" DU="30.06.1992">
+        <ShortName>АЛЕКСАНДРОВСКИЙ</ShortName>
+        <Bic>044030755</Bic>
+    </Record>
+    <Record ID="119" DU="27.03.1995">
+        <ShortName>СИАБ</ShortName>
+        <Bic>044030757</Bic>
+    </Record>
+    <Record ID="120" DU="22.11.1991">
+        <ShortName>ВИТАБАНК</ShortName>
+        <Bic>044030758</Bic>
+    </Record>
+    <Record ID="121" DU="11.12.1991">
+        <ShortName>МЕЖДУНАРОДНЫЙ БАНК САНКТ-ПЕТЕРБУРГА</ShortName>
+        <Bic>044030760</Bic>
+    </Record>
+    <Record ID="122" DU="03.10.1990">
+        <ShortName>БАНК "САНКТ-ПЕТЕРБУРГ"</ShortName>
+        <Bic>044030790</Bic>
+    </Record>
+    <Record ID="123" DU="19.07.1994">
+        <ShortName>ГОРБАНК</ShortName>
+        <Bic>044030814</Bic>
+    </Record>
+    <Record ID="124" DU="15.01.2007">
+        <ShortName>САНКТ-ПЕТЕРБУРГСКИЙ БАНК ИНВЕСТИЦИЙ</ShortName>
+        <Bic>044030820</Bic>
+    </Record>
+    <Record ID="125" DU="13.12.1993">
+        <ShortName>ОБЪЕДИНЕННЫЙ КАПИТАЛ</ShortName>
+        <Bic>044030826</Bic>
+    </Record>
+    <Record ID="126" DU="18.03.1994">
+        <ShortName>ПРАЙМ ФИНАНС</ShortName>
+        <Bic>044030845</Bic>
+    </Record>
+    <Record ID="127" DU="29.10.1993">
+        <ShortName>ПЕТЕРБУРГСКИЙ СОЦИАЛЬНЫЙ КОМ. БАНК</ShortName>
+        <Bic>044030852</Bic>
+    </Record>
+    <Record ID="128" DU="29.12.1991">
+        <ShortName>РОССИЯ</ShortName>
+        <Bic>044030861</Bic>
+    </Record>
+    <Record ID="129" DU="27.12.1991">
+        <ShortName>ВИКИНГ</ShortName>
+        <Bic>044030869</Bic>
+    </Record>
+    <Record ID="130" DU="17.06.1992">
+        <ShortName>НЕВАСТРОЙИНВЕСТ</ShortName>
+        <Bic>044030870</Bic>
+    </Record>
+    <Record ID="131" DU="21.04.1993">
+        <ShortName>ТАВРИЧЕСКИЙ БАНК</ShortName>
+        <Bic>044030877</Bic>
+    </Record>
+    <Record ID="132" DU="24.12.1991">
+        <ShortName>КРЕДИ АГРИКОЛЬ КИБ</ShortName>
+        <Bic>044030882</Bic>
+    </Record>
+    <Record ID="133" DU="05.12.1990">
+        <ShortName>НЕВСКИЙ НАРОДНЫЙ БАНК</ShortName>
+        <Bic>044030885</Bic>
+    </Record>
+    <Record ID="134" DU="28.11.1996">
+        <ShortName>ДАНСКЕ БАНК</ShortName>
+        <Bic>044030888</Bic>
+    </Record>
+    <Record ID="135" DU="14.10.1993">
+        <ShortName>ЭКСИ-БАНК</ShortName>
+        <Bic>044030889</Bic>
+    </Record>
+    <Record ID="136" DU="27.06.1994">
+        <ShortName>БАНКИРСКИЙ ДОМ</ShortName>
+        <Bic>044030892</Bic>
+    </Record>
+    <Record ID="137" DU="10.12.1991">
+        <ShortName>БАНК ОРАНЖЕВЫЙ</ShortName>
+        <Bic>044030904</Bic>
+    </Record>
+    <Record ID="138" DU="31.10.1990">
+        <ShortName>БАНК ФИНИНВЕСТ</ShortName>
+        <Bic>044030924</Bic>
+    </Record>
+    <Record ID="139" DU="22.01.1992">
+        <ShortName>ЗАУБЕР БАНК</ShortName>
+        <Bic>044030925</Bic>
+    </Record>
+    <Record ID="140" DU="26.10.1990">
+        <ShortName>ЕВРОСИБ БАНК</ShortName>
+        <Bic>044030934</Bic>
+    </Record>
+    <Record ID="141" DU="11.04.1991">
+        <ShortName>РУСКОБАНК</ShortName>
+        <Bic>044106725</Bic>
+    </Record>
+    <Record ID="142" DU="28.11.1990">
+        <ShortName>ЛЕНОБЛБАНК</ShortName>
+        <Bic>044106741</Bic>
+    </Record>
+    <Record ID="143" DU="11.01.1993">
+        <ShortName>КОНСТАНС-БАНК</ShortName>
+        <Bic>044106770</Bic>
+    </Record>
+    <Record ID="144" DU="17.01.2012">
+        <ShortName>БАНК БЕРЕЙТ</ShortName>
+        <Bic>044106888</Bic>
+    </Record>
+    <Record ID="145" DU="18.05.1992">
+        <ShortName>ЛИПЕЦКИЙ ОБЛАСТНОЙ БАНК</ShortName>
+        <Bic>044206708</Bic>
+    </Record>
+    <Record ID="146" DU="09.03.2016">
+        <ShortName>ГЛОБАЛ ЭКСЧЕЙНДЖ</ShortName>
+        <Bic>044525054</Bic>
+    </Record>
+    <Record ID="147" DU="28.04.2015">
+        <ShortName>ЦМРБАНК</ShortName>
+        <Bic>044525059</Bic>
+    </Record>
+    <Record ID="148" DU="15.03.1994">
+        <ShortName>БМ-БАНК</ShortName>
+        <Bic>044525062</Bic>
+    </Record>
+    <Record ID="149" DU="22.12.2016">
+        <ShortName>Р-ИНКАС</ShortName>
+        <Bic>044525063</Bic>
+    </Record>
+    <Record ID="150" DU="28.01.2014">
+        <ShortName>РАСЧЕТНЫЕ РЕШЕНИЯ</ShortName>
+        <Bic>044525070</Bic>
+    </Record>
+    <Record ID="151" DU="06.02.2002">
+        <ShortName>ВЕСТИНТЕРБАНК</ShortName>
+        <Bic>044525071</Bic>
+    </Record>
+    <Record ID="152" DU="31.10.1990">
+        <ShortName>ТАУРУС БАНК</ShortName>
+        <Bic>044525072</Bic>
+    </Record>
+    <Record ID="153" DU="10.05.1994">
+        <ShortName>АМТ БАНК</ShortName>
+        <Bic>044525073</Bic>
+    </Record>
+    <Record ID="154" DU="09.09.1992">
+        <ShortName>ФОРБАНК</ShortName>
+        <Bic>044525074</Bic>
+    </Record>
+    <Record ID="155" DU="08.04.2013">
+        <ShortName>ПЭЙЮ</ShortName>
+        <Bic>044525077</Bic>
+    </Record>
+    <Record ID="156" DU="05.11.2001">
+        <ShortName>ФИНСЕРВИС</ShortName>
+        <Bic>044525079</Bic>
+    </Record>
+    <Record ID="157" DU="28.05.2002">
+        <ShortName>РБА</ShortName>
+        <Bic>044525082</Bic>
+    </Record>
+    <Record ID="158" DU="26.06.1992">
+        <ShortName>РЕНЕССАНС</ShortName>
+        <Bic>044525083</Bic>
+    </Record>
+    <Record ID="159" DU="07.07.1993">
+        <ShortName>ПРОМЫШЛЕННО-ФИНАНСОВОЕ СОТРУДНИЧЕСТВО</ShortName>
+        <Bic>044525090</Bic>
+    </Record>
+    <Record ID="160" DU="19.08.1992">
+        <ShortName>МОРСКОЙ БАНК</ShortName>
+        <Bic>044525095</Bic>
+    </Record>
+    <Record ID="161" DU="31.07.2001">
+        <ShortName>ИНТЕРАКТИВНЫЙ БАНК</ShortName>
+        <Bic>044525096</Bic>
+    </Record>
+    <Record ID="162" DU="05.04.1994">
+        <ShortName>АВТОТОРГБАНК</ShortName>
+        <Bic>044525097</Bic>
+    </Record>
+    <Record ID="163" DU="17.04.1998">
+        <ShortName>ДОЙЧЕ БАНК</ShortName>
+        <Bic>044525101</Bic>
+    </Record>
+    <Record ID="164" DU="15.06.1998">
+        <ShortName>ДЕНИЗБАНК МОСКВА</ShortName>
+        <Bic>044525102</Bic>
+    </Record>
+    <Record ID="165" DU="10.12.1998">
+        <ShortName>КОММЕРЦБАНК (ЕВРАЗИЯ)</ShortName>
+        <Bic>044525105</Bic>
+    </Record>
+    <Record ID="166" DU="23.11.1993">
+        <ShortName>БАНК СБЕРЕЖЕНИЙ И КРЕДИТА</ShortName>
+        <Bic>044525106</Bic>
+    </Record>
+    <Record ID="167" DU="15.01.1999">
+        <ShortName>МИДЗУХО БАНК (МОСКВА)</ShortName>
+        <Bic>044525107</Bic>
+    </Record>
+    <Record ID="168" DU="07.07.1999">
+        <ShortName>МСП БАНК</ShortName>
+        <Bic>044525108</Bic>
+    </Record>
+    <Record ID="169" DU="12.11.1993">
+        <ShortName>ГАРАНТ-ИНВЕСТ</ShortName>
+        <Bic>044525109</Bic>
+    </Record>
+    <Record ID="170" DU="24.04.2000">
+        <ShortName>РОССЕЛЬХОЗБАНК</ShortName>
+        <Bic>044525111</Bic>
+    </Record>
+    <Record ID="171" DU="27.01.2005">
+        <ShortName>АЛЬТЕРНАТИВА</ShortName>
+        <Bic>044525115</Bic>
+    </Record>
+    <Record ID="172" DU="01.11.1993">
+        <ShortName>ЗИРААТ БАНК (МОСКВА)</ShortName>
+        <Bic>044525116</Bic>
+    </Record>
+    <Record ID="173" DU="27.01.1995">
+        <ShortName>РОССИЙСКИЙ ПРОМЫШЛЕННЫЙ БАНК</ShortName>
+        <Bic>044525120</Bic>
+    </Record>
+    <Record ID="174" DU="11.08.1995">
+        <ShortName>ИНТЕРПРОМБАНК</ShortName>
+        <Bic>044525126</Bic>
+    </Record>
+    <Record ID="175" DU="28.02.2013">
+        <ShortName>ОНЕЙ БАНК</ShortName>
+        <Bic>044525127</Bic>
+    </Record>
+    <Record ID="176" DU="14.12.1990">
+        <ShortName>ПЛЮС БАНК</ShortName>
+        <Bic>044525129</Bic>
+    </Record>
+    <Record ID="177" DU="17.12.1991">
+        <ShortName>ТЕМПБАНК</ShortName>
+        <Bic>044525130</Bic>
+    </Record>
+    <Record ID="178" DU="25.01.1993">
+        <ShortName>ТЕНДЕР-БАНК</ShortName>
+        <Bic>044525131</Bic>
+    </Record>
+    <Record ID="179" DU="10.06.1994">
+        <ShortName>ЕВРОАЗИАТСКИЙ ИНВЕСТИЦИОННЫЙ БАНК</ShortName>
+        <Bic>044525132</Bic>
+    </Record>
+    <Record ID="180" DU="30.06.1992">
+        <ShortName>ЭЛЕКСНЕТ</ShortName>
+        <Bic>044525133</Bic>
+    </Record>
+    <Record ID="181" DU="17.04.2003">
+        <ShortName>ПЕРВЫЙ КЛИЕНТСКИЙ БАНК</ShortName>
+        <Bic>044525134</Bic>
+    </Record>
+    <Record ID="182" DU="24.11.2000">
+        <ShortName>РЕНЕССАНС КРЕДИТ</ShortName>
+        <Bic>044525135</Bic>
+    </Record>
+    <Record ID="183" DU="19.04.1994">
+        <ShortName>ЭКОНОМИЧЕСКИЙ СОЮЗ</ShortName>
+        <Bic>044525137</Bic>
+    </Record>
+    <Record ID="184" DU="02.06.2000">
+        <ShortName>РАСЧЕТНЫЙ ДОМ</ShortName>
+        <Bic>044525138</Bic>
+    </Record>
+    <Record ID="185" DU="21.07.1992">
+        <ShortName>СВЯЗНОЙ БАНК</ShortName>
+        <Bic>044525139</Bic>
+    </Record>
+    <Record ID="186" DU="26.07.1994">
+        <ShortName>БОГОРОДСКИЙ МУНИЦИПАЛЬНЫЙ БАНК</ShortName>
+        <Bic>044525140</Bic>
+    </Record>
+    <Record ID="187" DU="14.08.1992">
+        <ShortName>АСКАНИЯ ТРАСТ</ShortName>
+        <Bic>044525141</Bic>
+    </Record>
+    <Record ID="188" DU="18.02.1994">
+        <ShortName>ЛИНК-БАНК</ShortName>
+        <Bic>044525144</Bic>
+    </Record>
+    <Record ID="189" DU="15.03.1994">
+        <ShortName>РУССКО-ГЕРМАНСКИЙ ТОРГОВЫЙ БАНК А.О.</ShortName>
+        <Bic>044525145</Bic>
+    </Record>
+    <Record ID="190" DU="01.09.1994">
+        <ShortName>СПЕЦСЕТЬСТРОЙБАНК</ShortName>
+        <Bic>044525146</Bic>
+    </Record>
+    <Record ID="191" DU="26.04.1991">
+        <ShortName>РН БАНК</ShortName>
+        <Bic>044525147</Bic>
+    </Record>
+    <Record ID="192" DU="23.04.1993">
+        <ShortName>СОЮЗ</ShortName>
+        <Bic>044525148</Bic>
+    </Record>
+    <Record ID="193" DU="31.03.1993">
+        <ShortName>РУССКИЙ СТАНДАРТ</ShortName>
+        <Bic>044525151</Bic>
+    </Record>
+    <Record ID="194" DU="20.10.1994">
+        <ShortName>ИНТРАСТБАНК</ShortName>
+        <Bic>044525154</Bic>
+    </Record>
+    <Record ID="195" DU="17.08.1994">
+        <ShortName>АДМИРАЛТЕЙСКИЙ</ShortName>
+        <Bic>044525157</Bic>
+    </Record>
+    <Record ID="196" DU="11.10.1994">
+        <ShortName>НС БАНК</ShortName>
+        <Bic>044525158</Bic>
+    </Record>
+    <Record ID="197" DU="19.07.2007">
+        <ShortName>МЕРСЕДЕС-БЕНЦ БАНК РУС</ShortName>
+        <Bic>044525159</Bic>
+    </Record>
+    <Record ID="198" DU="24.06.1994">
+        <ShortName>ГАЗСТРОЙБАНК</ShortName>
+        <Bic>044525160</Bic>
+    </Record>
+    <Record ID="199" DU="21.02.1994">
+        <ShortName>ЛОКО-БАНК</ShortName>
+        <Bic>044525161</Bic>
+    </Record>
+    <Record ID="200" DU="25.10.1993">
+        <ShortName>НОВИКОМБАНК</ShortName>
+        <Bic>044525162</Bic>
+    </Record>
+    <Record ID="201" DU="18.10.2007">
+        <ShortName>УРИ БАНК</ShortName>
+        <Bic>044525163</Bic>
+    </Record>
+    <Record ID="202" DU="26.08.1992">
+        <ShortName>РУССКИЙ ФИНАНСОВЫЙ АЛЬЯНС</ShortName>
+        <Bic>044525165</Bic>
+    </Record>
+    <Record ID="203" DU="28.03.1994">
+        <ShortName>ТЭМБР-БАНК</ShortName>
+        <Bic>044525166</Bic>
+    </Record>
+    <Record ID="204" DU="21.12.1993">
+        <ShortName>МБР-БАНК</ShortName>
+        <Bic>044525169</Bic>
+    </Record>
+    <Record ID="205" DU="05.09.1994">
+        <ShortName>РОСГОССТРАХ БАНК</ShortName>
+        <Bic>044525174</Bic>
+    </Record>
+    <Record ID="206" DU="02.08.1993">
+        <ShortName>МЕТАЛЛИНВЕСТБАНК</ShortName>
+        <Bic>044525176</Bic>
+    </Record>
+    <Record ID="207" DU="28.08.1992">
+        <ShortName>СЕРВИС РЕЗЕРВ</ShortName>
+        <Bic>044525178</Bic>
+    </Record>
+    <Record ID="208" DU="29.06.1994">
+        <ShortName>НКБ</ShortName>
+        <Bic>044525179</Bic>
+    </Record>
+    <Record ID="209" DU="28.07.1994">
+        <ShortName>ПУЛЬС СТОЛИЦЫ</ShortName>
+        <Bic>044525180</Bic>
+    </Record>
+    <Record ID="210" DU="12.04.1991">
+        <ShortName>ВОЗРОЖДЕНИЕ</ShortName>
+        <Bic>044525181</Bic>
+    </Record>
+    <Record ID="211" DU="09.06.1993">
+        <ShortName>НАРОДНЫЙ ДОВЕРИТЕЛЬНЫЙ БАНК</ShortName>
+        <Bic>044525182</Bic>
+    </Record>
+    <Record ID="212" DU="19.07.1994">
+        <ShortName>ЦЕНТРКОМБАНК</ShortName>
+        <Bic>044525183</Bic>
+    </Record>
+    <Record ID="213" DU="30.01.2002">
+        <ShortName>МИР БИЗНЕС БАНК</ShortName>
+        <Bic>044525184</Bic>
+    </Record>
+    <Record ID="214" DU="28.05.2002">
+        <ShortName>БНП ПАРИБА БАНК</ShortName>
+        <Bic>044525185</Bic>
+    </Record>
+    <Record ID="215" DU="03.10.1990">
+        <ShortName>БЕСТ ЭФФОРТС БАНК</ShortName>
+        <Bic>044525186</Bic>
+    </Record>
+    <Record ID="216" DU="17.10.1990">
+        <ShortName>ВТБ</ShortName>
+        <Bic>044525187</Bic>
+    </Record>
+    <Record ID="217" DU="08.07.2003">
+        <ShortName>ДИНАМИЧНЫЕ СИСТЕМЫ</ShortName>
+        <Bic>044525188</Bic>
+    </Record>
+    <Record ID="218" DU="18.04.1994">
+        <ShortName>РОСЭКСИМБАНК</ShortName>
+        <Bic>044525192</Bic>
+    </Record>
+    <Record ID="219" DU="24.10.1995">
+        <ShortName>ЕВРОАКСИС БАНК</ShortName>
+        <Bic>044525193</Bic>
+    </Record>
+    <Record ID="220" DU="17.06.1994">
+        <ShortName>ЕВРОМЕТ</ShortName>
+        <Bic>044525194</Bic>
+    </Record>
+    <Record ID="221" DU="21.06.1994">
+        <ShortName>КРЕМЛЕВСКИЙ</ShortName>
+        <Bic>044525196</Bic>
+    </Record>
+    <Record ID="222" DU="09.06.1994">
+        <ShortName>АВАНГАРД</ShortName>
+        <Bic>044525201</Bic>
+    </Record>
+    <Record ID="223" DU="01.11.1993">
+        <ShortName>СИТИБАНК</ShortName>
+        <Bic>044525202</Bic>
+    </Record>
+    <Record ID="224" DU="08.07.1996">
+        <ShortName>ПРОФЕССИОНАЛ БАНК</ShortName>
+        <Bic>044525203</Bic>
+    </Record>
+    <Record ID="225" DU="29.06.1993">
+        <ShortName>ЕВРОФИНАНС МОСНАРБАНК</ShortName>
+        <Bic>044525204</Bic>
+    </Record>
+    <Record ID="226" DU="16.12.1994">
+        <ShortName>ТОРГОВЫЙ ГОРОДСКОЙ БАНК</ShortName>
+        <Bic>044525208</Bic>
+    </Record>
+    <Record ID="227" DU="06.08.1992">
+        <ShortName>НОВЫЙ СИМВОЛ</ShortName>
+        <Bic>044525209</Bic>
+    </Record>
+    <Record ID="228" DU="09.09.1992">
+        <ShortName>РСКБ</ShortName>
+        <Bic>044525211</Bic>
+    </Record>
+    <Record ID="229" DU="23.04.1993">
+        <ShortName>БЭНК ОФ ЧАЙНА</ShortName>
+        <Bic>044525213</Bic>
+    </Record>
+    <Record ID="230" DU="31.10.1990">
+        <ShortName>ПОЧТА БАНК</ShortName>
+        <Bic>044525214</Bic>
+    </Record>
+    <Record ID="231" DU="11.02.1994">
+        <ShortName>БАНК КОРПОРАТИВНОГО ФИНАНСИРОВАНИЯ</ShortName>
+        <Bic>044525215</Bic>
+    </Record>
+    <Record ID="232" DU="26.10.1993">
+        <ShortName>ДЖ.П. МОРГАН БАНК ИНТЕРНЕШНЛ</ShortName>
+        <Bic>044525218</Bic>
+    </Record>
+    <Record ID="233" DU="13.09.1993">
+        <ShortName>ИНГ БАНК (ЕВРАЗИЯ)</ShortName>
+        <Bic>044525222</Bic>
+    </Record>
+    <Record ID="234" DU="20.06.1991">
+        <ShortName>СБЕРБАНК РОССИИ</ShortName>
+        <Bic>044525225</Bic>
+    </Record>
+    <Record ID="235" DU="30.12.1994">
+        <ShortName>КУТУЗОВСКИЙ</ShortName>
+        <Bic>044525228</Bic>
+    </Record>
+    <Record ID="236" DU="22.06.1994">
+        <ShortName>АРЕСБАНК</ShortName>
+        <Bic>044525229</Bic>
+    </Record>
+    <Record ID="237" DU="29.01.1993">
+        <ShortName>МТС-БАНК</ShortName>
+        <Bic>044525232</Bic>
+    </Record>
+    <Record ID="238" DU="23.04.2003">
+        <ShortName>ИСТКОМ-ФИНАНС</ShortName>
+        <Bic>044525233</Bic>
+    </Record>
+    <Record ID="239" DU="30.08.1996">
+        <ShortName>АЗИЯ-ИНВЕСТ БАНК</ShortName>
+        <Bic>044525234</Bic>
+    </Record>
+    <Record ID="240" DU="13.09.1993">
+        <ShortName>БАНК КРЕДИТ СВИСС (МОСКВА)</ShortName>
+        <Bic>044525236</Bic>
+    </Record>
+    <Record ID="241" DU="04.07.1994">
+        <ShortName>МЕЖТОПЭНЕРГОБАНК</ShortName>
+        <Bic>044525237</Bic>
+    </Record>
+    <Record ID="242" DU="29.06.1993">
+        <ShortName>АПАБАНК</ShortName>
+        <Bic>044525238</Bic>
+    </Record>
+    <Record ID="243" DU="23.11.1990">
+        <ShortName>МОССТРОЙЭКОНОМБАНК</ShortName>
+        <Bic>044525241</Bic>
+    </Record>
+    <Record ID="244" DU="22.09.1995">
+        <ShortName>ВЕГА-БАНК</ShortName>
+        <Bic>044525242</Bic>
+    </Record>
+    <Record ID="245" DU="30.11.1992">
+        <ShortName>ЕКАТЕРИНИНСКИЙ</ShortName>
+        <Bic>044525244</Bic>
+    </Record>
+    <Record ID="246" DU="12.05.1992">
+        <ShortName>ХКФ БАНК</ShortName>
+        <Bic>044525245</Bic>
+    </Record>
+    <Record ID="247" DU="17.05.1994">
+        <ShortName>КРОССИНВЕСТБАНК</ShortName>
+        <Bic>044525246</Bic>
+    </Record>
+    <Record ID="248" DU="01.03.1995">
+        <ShortName>БАНК "СКС"</ShortName>
+        <Bic>044525247</Bic>
+    </Record>
+    <Record ID="249" DU="01.09.1994">
+        <ShortName>ВПБ</ShortName>
+        <Bic>044525250</Bic>
+    </Record>
+    <Record ID="250" DU="25.01.1993">
+        <ShortName>КОСМОС</ShortName>
+        <Bic>044525254</Bic>
+    </Record>
+    <Record ID="251" DU="05.03.1994">
+        <ShortName>МИ-БАНК</ShortName>
+        <Bic>044525255</Bic>
+    </Record>
+    <Record ID="252" DU="02.03.1993">
+        <ShortName>РОСБАНК</ShortName>
+        <Bic>044525256</Bic>
+    </Record>
+    <Record ID="253" DU="07.05.1993">
+        <ShortName>РОССИЙСКАЯ ФИНАНСОВАЯ КОРПОРАЦИЯ</ShortName>
+        <Bic>044525257</Bic>
+    </Record>
+    <Record ID="254" DU="29.06.1994">
+        <ShortName>НЗБАНК</ShortName>
+        <Bic>044525259</Bic>
+    </Record>
+    <Record ID="255" DU="27.01.1995">
+        <ShortName>РУНА-БАНК</ShortName>
+        <Bic>044525261</Bic>
+    </Record>
+    <Record ID="256" DU="26.12.1994">
+        <ShortName>ЭС-БИ-АЙ БАНК</ShortName>
+        <Bic>044525265</Bic>
+    </Record>
+    <Record ID="257" DU="23.04.1993">
+        <ShortName>БАНК ДОМ.РФ</ShortName>
+        <Bic>044525266</Bic>
+    </Record>
+    <Record ID="258" DU="28.03.1994">
+        <ShortName>ИНВЕСТТОРГБАНК</ShortName>
+        <Bic>044525267</Bic>
+    </Record>
+    <Record ID="259" DU="16.10.1992">
+        <ShortName>АЛЕФ-БАНК</ShortName>
+        <Bic>044525268</Bic>
+    </Record>
+    <Record ID="260" DU="29.10.1990">
+        <ShortName>АКАДЕМИЧЕСКИЙ РУССКИЙ БАНК</ShortName>
+        <Bic>044525270</Bic>
+    </Record>
+    <Record ID="261" DU="24.02.1994">
+        <ShortName>ГРИНФИЛДБАНК</ShortName>
+        <Bic>044525271</Bic>
+    </Record>
+    <Record ID="262" DU="22.06.1995">
+        <ShortName>БАНК ЗЕНИТ</ShortName>
+        <Bic>044525272</Bic>
+    </Record>
+    <Record ID="263" DU="03.12.1990">
+        <ShortName>МТИ БАНК</ShortName>
+        <Bic>044525273</Bic>
+    </Record>
+    <Record ID="264" DU="19.10.1994">
+        <ShortName>ИНВЕСТРАСТБАНК</ShortName>
+        <Bic>044525274</Bic>
+    </Record>
+    <Record ID="265" DU="13.10.1992">
+        <ShortName>ПЕРЕСВЕТ</ShortName>
+        <Bic>044525275</Bic>
+    </Record>
+    <Record ID="266" DU="18.03.1994">
+        <ShortName>НК БАНК</ShortName>
+        <Bic>044525278</Bic>
+    </Record>
+    <Record ID="267" DU="30.12.1994">
+        <ShortName>МИКО-БАНК</ShortName>
+        <Bic>044525284</Bic>
+    </Record>
+    <Record ID="268" DU="05.12.1990">
+        <ShortName>РЕАЛИСТ</ShortName>
+        <Bic>044525285</Bic>
+    </Record>
+    <Record ID="269" DU="25.05.1994">
+        <ShortName>МОСВОДОКАНАЛБАНК</ShortName>
+        <Bic>044525286</Bic>
+    </Record>
+    <Record ID="270" DU="29.12.1992">
+        <ShortName>ПУШКИНО</ShortName>
+        <Bic>044525287</Bic>
+    </Record>
+    <Record ID="271" DU="03.12.1993">
+        <ShortName>АЛЬБА АЛЬЯНС</ShortName>
+        <Bic>044525288</Bic>
+    </Record>
+    <Record ID="272" DU="20.06.2002">
+        <ShortName>ВЕБРР</ShortName>
+        <Bic>044525289</Bic>
+    </Record>
+    <Record ID="273" DU="01.09.1994">
+        <ShortName>БФГ-КРЕДИТ</ShortName>
+        <Bic>044525292</Bic>
+    </Record>
+    <Record ID="274" DU="23.11.1990">
+        <ShortName>ОРБАНК</ShortName>
+        <Bic>044525298</Bic>
+    </Record>
+    <Record ID="275" DU="01.03.1994">
+        <ShortName>ВЕСТЕРН ЮНИОН ДП ВОСТОК</ShortName>
+        <Bic>044525299</Bic>
+    </Record>
+    <Record ID="276" DU="28.05.1996">
+        <ShortName>ПЧРБ</ShortName>
+        <Bic>044525300</Bic>
+    </Record>
+    <Record ID="277" DU="17.06.1991">
+        <ShortName>ЛЭНД КРЕДИТ</ShortName>
+        <Bic>044525302</Bic>
+    </Record>
+    <Record ID="278" DU="13.03.2013">
+        <ShortName>ПЭЙПАЛ РУ</ShortName>
+        <Bic>044525303</Bic>
+    </Record>
+    <Record ID="279" DU="27.06.1995">
+        <ShortName>МИЛБАНК</ShortName>
+        <Bic>044525304</Bic>
+    </Record>
+    <Record ID="280" DU="20.04.1992">
+        <ShortName>ЕВРОКОММЕРЦ</ShortName>
+        <Bic>044525306</Bic>
+    </Record>
+    <Record ID="281" DU="27.02.1992">
+        <ShortName>ИНБАНК</ShortName>
+        <Bic>044525308</Bic>
+    </Record>
+    <Record ID="282" DU="28.03.1994">
+        <ShortName>ОТП БАНК</ShortName>
+        <Bic>044525311</Bic>
+    </Record>
+    <Record ID="283" DU="27.06.2012">
+        <ShortName>ЭЛЕКТРОННЫЙ ПЛАТЕЖНЫЙ СЕРВИС</ShortName>
+        <Bic>044525313</Bic>
+    </Record>
+    <Record ID="284" DU="12.11.1992">
+        <ShortName>НЕФТЕПРОМБАНК</ShortName>
+        <Bic>044525315</Bic>
+    </Record>
+    <Record ID="285" DU="02.02.1995">
+        <ShortName>ДОМ-БАНК</ShortName>
+        <Bic>044525317</Bic>
+    </Record>
+    <Record ID="286" DU="27.01.1994">
+        <ShortName>СЛАВИЯ</ShortName>
+        <Bic>044525318</Bic>
+    </Record>
+    <Record ID="287" DU="05.10.1993">
+        <ShortName>МКБ</ShortName>
+        <Bic>044525319</Bic>
+    </Record>
+    <Record ID="288" DU="23.08.1993">
+        <ShortName>ПЕТРОФФ-БАНК</ShortName>
+        <Bic>044525321</Bic>
+    </Record>
+    <Record ID="289" DU="24.06.2008">
+        <ShortName>ФИНЧЕР</ShortName>
+        <Bic>044525324</Bic>
+    </Record>
+    <Record ID="290" DU="28.04.1994">
+        <ShortName>ТРАНССТРОЙБАНК</ShortName>
+        <Bic>044525326</Bic>
+    </Record>
+    <Record ID="291" DU="21.02.2013">
+        <ShortName>ПРЕМИУМ</ShortName>
+        <Bic>044525327</Bic>
+    </Record>
+    <Record ID="292" DU="11.10.1994">
+        <ShortName>РУССКИЙ МЕЖДУНАРОДНЫЙ БАНК</ShortName>
+        <Bic>044525328</Bic>
+    </Record>
+    <Record ID="293" DU="28.08.1992">
+        <ShortName>КРЕДИТИМПЭКС БАНК</ShortName>
+        <Bic>044525329</Bic>
+    </Record>
+    <Record ID="294" DU="11.04.2001">
+        <ShortName>РЕГИОНАЛЬНЫЙ БАНК СБЕРЕЖЕНИЙ</ShortName>
+        <Bic>044525335</Bic>
+    </Record>
+    <Record ID="295" DU="16.12.1992">
+        <ShortName>РУБЛЕВСКИЙ</ShortName>
+        <Bic>044525337</Bic>
+    </Record>
+    <Record ID="296" DU="13.03.2008">
+        <ShortName>БАНК ПСА ФИНАНС РУС</ShortName>
+        <Bic>044525339</Bic>
+    </Record>
+    <Record ID="297" DU="30.10.2008">
+        <ShortName>ГОЛДМАН САКС БАНК</ShortName>
+        <Bic>044525340</Bic>
+    </Record>
+    <Record ID="298" DU="27.05.1992">
+        <ShortName>ФОРА-БАНК</ShortName>
+        <Bic>044525341</Bic>
+    </Record>
+    <Record ID="299" DU="13.07.2011">
+        <ShortName>ДЖАСТ БАНК</ShortName>
+        <Bic>044525342</Bic>
+    </Record>
+    <Record ID="300" DU="16.05.1994">
+        <ShortName>СИНКО-БАНК</ShortName>
+        <Bic>044525346</Bic>
+    </Record>
+    <Record ID="301" DU="24.06.1992">
+        <ShortName>ЛАНТА-БАНК</ShortName>
+        <Bic>044525348</Bic>
+    </Record>
+    <Record ID="302" DU="05.12.1994">
+        <ShortName>ИС БАНК</ShortName>
+        <Bic>044525349</Bic>
+    </Record>
+    <Record ID="303" DU="04.08.1994">
+        <ShortName>АМБ БАНК</ShortName>
+        <Bic>044525350</Bic>
+    </Record>
+    <Record ID="304" DU="23.04.1996">
+        <ShortName>ЭЙЧ-ЭС-БИ-СИ БАНК (РР)</ShortName>
+        <Bic>044525351</Bic>
+    </Record>
+    <Record ID="305" DU="02.12.1992">
+        <ShortName>МАСТЕР-БАНК</ShortName>
+        <Bic>044525353</Bic>
+    </Record>
+    <Record ID="306" DU="26.12.1994">
+        <ShortName>ЕДИНСТВЕННЫЙ</ShortName>
+        <Bic>044525355</Bic>
+    </Record>
+    <Record ID="307" DU="05.12.1994">
+        <ShortName>ТРАНСПОРТНЫЙ</ShortName>
+        <Bic>044525356</Bic>
+    </Record>
+    <Record ID="308" DU="06.04.1994">
+        <ShortName>РЕГИОНАЛЬНЫЙ БАНК РАЗВИТИЯ</ShortName>
+        <Bic>044525359</Bic>
+    </Record>
+    <Record ID="309" DU="29.05.2006">
+        <ShortName>ЭМ-Ю-ЭФ-ДЖИ БАНК (ЕВРАЗИЯ)</ShortName>
+        <Bic>044525361</Bic>
+    </Record>
+    <Record ID="310" DU="09.03.1994">
+        <ShortName>МЕЖГОСУДАРСТВЕННЫЙ БАНК</ShortName>
+        <Bic>044525362</Bic>
+    </Record>
+    <Record ID="311" DU="30.11.1990">
+        <ShortName>ПРОМСБЕРБАНК</ShortName>
+        <Bic>044525366</Bic>
+    </Record>
+    <Record ID="312" DU="27.03.1992">
+        <ShortName>ПЕРВЫЙ РЕСПУБЛИКАНСКИЙ БАНК</ShortName>
+        <Bic>044525368</Bic>
+    </Record>
+    <Record ID="313" DU="08.07.1992">
+        <ShortName>ДАЛЕНА</ShortName>
+        <Bic>044525371</Bic>
+    </Record>
+    <Record ID="314" DU="10.10.1994">
+        <ShortName>ЛЕГИОН</ShortName>
+        <Bic>044525373</Bic>
+    </Record>
+    <Record ID="315" DU="09.10.1992">
+        <ShortName>ТРАНСНАЦИОНАЛЬНЫЙ БАНК</ShortName>
+        <Bic>044525374</Bic>
+    </Record>
+    <Record ID="316" DU="18.07.1994">
+        <ShortName>СОФРИНО</ShortName>
+        <Bic>044525375</Bic>
+    </Record>
+    <Record ID="317" DU="05.11.2001">
+        <ShortName>ДИЛ-БАНК</ShortName>
+        <Bic>044525376</Bic>
+    </Record>
+    <Record ID="318" DU="04.03.1994">
+        <ShortName>ОПМ-БАНК</ShortName>
+        <Bic>044525378</Bic>
+    </Record>
+    <Record ID="319" DU="18.01.1993">
+        <ShortName>НАРОДНЫЙ БАНК</ShortName>
+        <Bic>044525380</Bic>
+    </Record>
+    <Record ID="320" DU="13.12.1994">
+        <ShortName>ЛАЙТБАНК</ShortName>
+        <Bic>044525381</Bic>
+    </Record>
+    <Record ID="321" DU="01.12.1994">
+        <ShortName>МЕЖДУНАРОДНЫЙ ФОНДОВЫЙ БАНК</ShortName>
+        <Bic>044525387</Bic>
+    </Record>
+    <Record ID="322" DU="24.12.1992">
+        <ShortName>ТРАНСКАПИТАЛБАНК</ShortName>
+        <Bic>044525388</Bic>
+    </Record>
+    <Record ID="323" DU="24.07.1992">
+        <ShortName>МОНОЛИТ</ShortName>
+        <Bic>044525391</Bic>
+    </Record>
+    <Record ID="324" DU="02.07.1992">
+        <ShortName>ТАНДЕМ</ShortName>
+        <Bic>044525392</Bic>
+    </Record>
+    <Record ID="325" DU="25.11.1993">
+        <ShortName>ЮНИКОР</ShortName>
+        <Bic>044525397</Bic>
+    </Record>
+    <Record ID="326" DU="14.07.1992">
+        <ShortName>ВИТАС</ShortName>
+        <Bic>044525398</Bic>
+    </Record>
+    <Record ID="327" DU="26.10.1990">
+        <ShortName>ИНТЕРПРОГРЕССБАНК</ShortName>
+        <Bic>044525402</Bic>
+    </Record>
+    <Record ID="328" DU="26.10.1990">
+        <ShortName>ПЕРВЫЙ ИНВЕСТИЦИОННЫЙ БАНК</ShortName>
+        <Bic>044525408</Bic>
+    </Record>
+    <Record ID="329" DU="09.06.1994">
+        <ShortName>СОЦИУМ-БАНК</ShortName>
+        <Bic>044525409</Bic>
+    </Record>
+    <Record ID="330" DU="01.11.1990">
+        <ShortName>РУССКИЙ РЕГИОНАЛЬНЫЙ БАНК</ShortName>
+        <Bic>044525412</Bic>
+    </Record>
+    <Record ID="331" DU="06.09.1994">
+        <ShortName>НАЦИОНАЛЬНЫЙ ИНВЕСТИЦИОННО-ПРОМЫШЛЕННЫЙ</ShortName>
+        <Bic>044525413</Bic>
+    </Record>
+    <Record ID="332" DU="21.01.1993">
+        <ShortName>КИВИ БАНК</ShortName>
+        <Bic>044525416</Bic>
+    </Record>
+    <Record ID="333" DU="29.05.2008">
+        <ShortName>МЕЖДУНАРОДНЫЙ СТРОИТЕЛЬНЫЙ БАНК</ShortName>
+        <Bic>044525421</Bic>
+    </Record>
+    <Record ID="334" DU="20.01.1994">
+        <ShortName>УНИФИН</ShortName>
+        <Bic>044525423</Bic>
+    </Record>
+    <Record ID="335" DU="29.01.1993">
+        <ShortName>АЛЬТА-БАНК</ShortName>
+        <Bic>044525424</Bic>
+    </Record>
+    <Record ID="336" DU="26.10.1990">
+        <ShortName>ГАГАРИНСКИЙ</ShortName>
+        <Bic>044525429</Bic>
+    </Record>
+    <Record ID="337" DU="28.06.1993">
+        <ShortName>НАРОДНЫЙ КРЕДИТ</ShortName>
+        <Bic>044525431</Bic>
+    </Record>
+    <Record ID="338" DU="16.01.1995">
+        <ShortName>ЕВРОПЕЙСКИЙ СТАНДАРТ</ShortName>
+        <Bic>044525433</Bic>
+    </Record>
+    <Record ID="339" DU="31.07.2001">
+        <ShortName>МАКСИМА</ShortName>
+        <Bic>044525435</Bic>
+    </Record>
+    <Record ID="340" DU="30.10.1990">
+        <ShortName>БАНК - Т</ShortName>
+        <Bic>044525436</Bic>
+    </Record>
+    <Record ID="341" DU="10.10.1994">
+        <ShortName>ЭКО-ИНВЕСТ</ShortName>
+        <Bic>044525440</Bic>
+    </Record>
+    <Record ID="342" DU="02.08.2012">
+        <ShortName>ЯНДЕКС.ДЕНЬГИ</ShortName>
+        <Bic>044525444</Bic>
+    </Record>
+    <Record ID="343" DU="30.10.1990">
+        <ShortName>ИНВЕСТИЦИОННЫЙ СОЮЗ</ShortName>
+        <Bic>044525445</Bic>
+    </Record>
+    <Record ID="344" DU="22.02.1993">
+        <ShortName>БАНК БФТ</ShortName>
+        <Bic>044525447</Bic>
+    </Record>
+    <Record ID="345" DU="20.11.1990">
+        <ShortName>БАНК СТАНДАРТ-КРЕДИТ</ShortName>
+        <Bic>044525450</Bic>
+    </Record>
+    <Record ID="346" DU="15.01.2004">
+        <ShortName>РЕСО КРЕДИТ</ShortName>
+        <Bic>044525451</Bic>
+    </Record>
+    <Record ID="347" DU="22.09.1994">
+        <ShortName>РЕНТА-БАНК</ShortName>
+        <Bic>044525453</Bic>
+    </Record>
+    <Record ID="348" DU="03.07.1995">
+        <ShortName>ВНЕШПРОМБАНК</ShortName>
+        <Bic>044525455</Bic>
+    </Record>
+    <Record ID="349" DU="30.09.1991">
+        <ShortName>ЭКСПРЕСС-КРЕДИТ</ShortName>
+        <Bic>044525457</Bic>
+    </Record>
+    <Record ID="350" DU="27.07.1994">
+        <ShortName>ЭКСПОБАНК</ShortName>
+        <Bic>044525460</Bic>
+    </Record>
+    <Record ID="351" DU="14.03.1995">
+        <ShortName>БЕНИФИТ-БАНК</ShortName>
+        <Bic>044525461</Bic>
+    </Record>
+    <Record ID="352" DU="20.10.1994">
+        <ShortName>БАНК ЖИЛИЩНОГО ФИНАНСИРОВАНИЯ</ShortName>
+        <Bic>044525464</Bic>
+    </Record>
+    <Record ID="353" DU="18.08.1995">
+        <ShortName>МАСТ-БАНК</ShortName>
+        <Bic>044525465</Bic>
+    </Record>
+    <Record ID="354" DU="11.04.2002">
+        <ShortName>РУСНАРБАНК</ShortName>
+        <Bic>044525466</Bic>
+    </Record>
+    <Record ID="355" DU="07.04.2009">
+        <ShortName>СУМИТОМО МИЦУИ РУС БАНК</ShortName>
+        <Bic>044525470</Bic>
+    </Record>
+    <Record ID="356" DU="29.10.1993">
+        <ShortName>МЕТРОБАНК</ShortName>
+        <Bic>044525471</Bic>
+    </Record>
+    <Record ID="357" DU="27.07.1993">
+        <ShortName>ГЛОБУС</ShortName>
+        <Bic>044525473</Bic>
+    </Record>
+    <Record ID="358" DU="05.12.1994">
+        <ShortName>МОСКОВСКИЙ КОММЕРЧЕСКИЙ БАНК</ShortName>
+        <Bic>044525476</Bic>
+    </Record>
+    <Record ID="359" DU="24.08.1993">
+        <ShortName>НАВИГАТОР</ShortName>
+        <Bic>044525477</Bic>
+    </Record>
+    <Record ID="360" DU="20.05.1992">
+        <ShortName>ЕВРОСИТИБАНК</ShortName>
+        <Bic>044525484</Bic>
+    </Record>
+    <Record ID="361" DU="11.04.2001">
+        <ShortName>КОММЕРЧЕСКИЙ БАНК РАЗВИТИЯ</ShortName>
+        <Bic>044525485</Bic>
+    </Record>
+    <Record ID="362" DU="29.12.1990">
+        <ShortName>СОБИНБАНК</ShortName>
+        <Bic>044525487</Bic>
+    </Record>
+    <Record ID="363" DU="20.06.2002">
+        <ShortName>УНИФОНДБАНК</ShortName>
+        <Bic>044525488</Bic>
+    </Record>
+    <Record ID="364" DU="13.04.1994">
+        <ShortName>МС БАНК РУС</ShortName>
+        <Bic>044525490</Bic>
+    </Record>
+    <Record ID="365" DU="17.05.1994">
+        <ShortName>СИСТЕМА</ShortName>
+        <Bic>044525494</Bic>
+    </Record>
+    <Record ID="366" DU="02.10.2002">
+        <ShortName>НАЦИОНАЛЬНЫЙ СТАНДАРТ</ShortName>
+        <Bic>044525498</Bic>
+    </Record>
+    <Record ID="367" DU="09.06.1994">
+        <ShortName>МЕТАЛЛУРГ</ShortName>
+        <Bic>044525499</Bic>
+    </Record>
+    <Record ID="368" DU="05.11.2003">
+        <ShortName>КОММЕРЧЕСКИЙ ИНДО БАНК</ShortName>
+        <Bic>044525500</Bic>
+    </Record>
+    <Record ID="369" DU="09.04.1991">
+        <ShortName>КРЕДИТ-МОСКВА</ShortName>
+        <Bic>044525501</Bic>
+    </Record>
+    <Record ID="370" DU="24.01.2002">
+        <ShortName>МБА-МОСКВА</ShortName>
+        <Bic>044525502</Bic>
+    </Record>
+    <Record ID="371" DU="11.04.2001">
+        <ShortName>СЕВЕРНЫЙ МОРСКОЙ ПУТЬ</ShortName>
+        <Bic>044525503</Bic>
+    </Record>
+    <Record ID="372" DU="27.06.1996">
+        <ShortName>НРД</ShortName>
+        <Bic>044525505</Bic>
+    </Record>
+    <Record ID="373" DU="17.01.2002">
+        <ShortName>НАТИКСИС БАНК</ShortName>
+        <Bic>044525512</Bic>
+    </Record>
+    <Record ID="374" DU="28.02.1992">
+        <ShortName>ЦЕНТРОКРЕДИТ</ShortName>
+        <Bic>044525514</Bic>
+    </Record>
+    <Record ID="375" DU="20.06.2002">
+        <ShortName>НОВЫЙ ВЕК</ShortName>
+        <Bic>044525517</Bic>
+    </Record>
+    <Record ID="376" DU="12.12.1991">
+        <ShortName>РОСИНТЕРБАНК</ShortName>
+        <Bic>044525518</Bic>
+    </Record>
+    <Record ID="377" DU="09.04.1992">
+        <ShortName>МОСКОВСКИЙ ОБЛАСТНОЙ БАНК</ShortName>
+        <Bic>044525521</Bic>
+    </Record>
+    <Record ID="378" DU="21.07.2003">
+        <ShortName>БАНК РАЗВИТИЯ ТЕХНОЛОГИЙ</ShortName>
+        <Bic>044525528</Bic>
+    </Record>
+    <Record ID="379" DU="03.12.1993">
+        <ShortName>ЗАПАДНЫЙ</ShortName>
+        <Bic>044525534</Bic>
+    </Record>
+    <Record ID="380" DU="10.09.1992">
+        <ShortName>БАНК МБФИ</ShortName>
+        <Bic>044525536</Bic>
+    </Record>
+    <Record ID="381" DU="17.04.2003">
+        <ShortName>РУССКИЙ ИНВЕСТИЦИОННЫЙ АЛЬЯНС</ShortName>
+        <Bic>044525538</Bic>
+    </Record>
+    <Record ID="382" DU="21.02.1994">
+        <ShortName>МЕЖДУНАРОДНЫЙ БАНК РАЗВИТИЯ</ShortName>
+        <Bic>044525541</Bic>
+    </Record>
+    <Record ID="383" DU="01.12.1992">
+        <ShortName>ИРС</ShortName>
+        <Bic>044525544</Bic>
+    </Record>
+    <Record ID="384" DU="15.11.1991">
+        <ShortName>ЮНИКРЕДИТ БАНК</ShortName>
+        <Bic>044525545</Bic>
+    </Record>
+    <Record ID="385" DU="03.12.1990">
+        <ShortName>ФИНАНСОВЫЙ СТАНДАРТ</ShortName>
+        <Bic>044525547</Bic>
+    </Record>
+    <Record ID="386" DU="19.11.1992">
+        <ShortName>ФИНПРОМБАНК</ShortName>
+        <Bic>044525549</Bic>
+    </Record>
+    <Record ID="387" DU="31.05.2006">
+        <ShortName>ЮНИСТРИМ</ShortName>
+        <Bic>044525550</Bic>
+    </Record>
+    <Record ID="388" DU="30.08.2007">
+        <ShortName>АЙСИБИСИ БАНК</ShortName>
+        <Bic>044525551</Bic>
+    </Record>
+    <Record ID="389" DU="12.05.1995">
+        <ShortName>ПРОМСВЯЗЬБАНК</ShortName>
+        <Bic>044525555</Bic>
+    </Record>
+    <Record ID="390" DU="26.08.1993">
+        <ShortName>БАНК НА КРАСНЫХ ВОРОТАХ</ShortName>
+        <Bic>044525556</Bic>
+    </Record>
+    <Record ID="391" DU="15.11.2002">
+        <ShortName>РУССКОЕ ФИНАНСОВОЕ ОБЩЕСТВО</ShortName>
+        <Bic>044525561</Bic>
+    </Record>
+    <Record ID="392" DU="22.04.1994">
+        <ShortName>СТРАТЕГИЯ</ShortName>
+        <Bic>044525563</Bic>
+    </Record>
+    <Record ID="393" DU="03.10.1991">
+        <ShortName>ТИМЕР БАНК</ShortName>
+        <Bic>044525567</Bic>
+    </Record>
+    <Record ID="394" DU="29.01.1993">
+        <ShortName>МОСТРАНСБАНК</ShortName>
+        <Bic>044525568</Bic>
+    </Record>
+    <Record ID="395" DU="22.06.1994">
+        <ShortName>НОТА-БАНК</ShortName>
+        <Bic>044525569</Bic>
+    </Record>
+    <Record ID="396" DU="11.04.2002">
+        <ShortName>ТРАСТОВЫЙ РЕСПУБЛИКАНСКИЙ БАНК</ShortName>
+        <Bic>044525571</Bic>
+    </Record>
+    <Record ID="397" DU="12.11.1993">
+        <ShortName>БАНК РМП</ShortName>
+        <Bic>044525583</Bic>
+    </Record>
+    <Record ID="398" DU="06.01.1994">
+        <ShortName>БАНК ГОРОД</ShortName>
+        <Bic>044525584</Bic>
+    </Record>
+    <Record ID="399" DU="27.07.1992">
+        <ShortName>АЙМАНИБАНК</ShortName>
+        <Bic>044525586</Bic>
+    </Record>
+    <Record ID="400" DU="21.09.1994">
+        <ShortName>ДЖЕЙ ЭНД ТИ БАНК</ShortName>
+        <Bic>044525588</Bic>
+    </Record>
+    <Record ID="401" DU="27.01.1995">
+        <ShortName>РУССКИЙ СТРОИТЕЛЬНЫЙ БАНК</ShortName>
+        <Bic>044525591</Bic>
+    </Record>
+    <Record ID="402" DU="29.04.1993">
+        <ShortName>ОГНИ МОСКВЫ</ShortName>
+        <Bic>044525592</Bic>
+    </Record>
+    <Record ID="403" DU="03.01.1991">
+        <ShortName>АЛЬФА-БАНК</ShortName>
+        <Bic>044525593</Bic>
+    </Record>
+    <Record ID="404" DU="13.11.2002">
+        <ShortName>МИЛЛЕНИУМ БАНК</ShortName>
+        <Bic>044525597</Bic>
+    </Record>
+    <Record ID="405" DU="22.11.1990">
+        <ShortName>МОСКОВСКИЙ ИНДУСТРИАЛЬНЫЙ БАНК</ShortName>
+        <Bic>044525600</Bic>
+    </Record>
+    <Record ID="406" DU="19.04.1994">
+        <ShortName>ИПОТЕК БАНК</ShortName>
+        <Bic>044525603</Bic>
+    </Record>
+    <Record ID="407" DU="19.04.1994">
+        <ShortName>БАНК ФИНАМ</ShortName>
+        <Bic>044525604</Bic>
+    </Record>
+    <Record ID="408" DU="25.12.1991">
+        <ShortName>ДОРИС БАНК</ShortName>
+        <Bic>044525608</Bic>
+    </Record>
+    <Record ID="409" DU="02.07.2010">
+        <ShortName>ФОЛЬКСВАГЕН БАНК РУС</ShortName>
+        <Bic>044525619</Bic>
+    </Record>
+    <Record ID="410" DU="10.10.1994">
+        <ShortName>АНТАЛБАНК</ShortName>
+        <Bic>044525621</Bic>
+    </Record>
+    <Record ID="411" DU="01.06.1994">
+        <ShortName>ИШБАНК</ShortName>
+        <Bic>044525624</Bic>
+    </Record>
+    <Record ID="412" DU="29.01.1993">
+        <ShortName>КУЗНЕЦКИЙ МОСТ</ShortName>
+        <Bic>044525625</Bic>
+    </Record>
+    <Record ID="413" DU="10.12.1991">
+        <ShortName>ИНТЕРКОММЕРЦ</ShortName>
+        <Bic>044525626</Bic>
+    </Record>
+    <Record ID="414" DU="03.04.2007">
+        <ShortName>ТОЙОТА БАНК</ShortName>
+        <Bic>044525630</Bic>
+    </Record>
+    <Record ID="415" DU="30.12.1991">
+        <ShortName>БКС БАНК</ShortName>
+        <Bic>044525631</Bic>
+    </Record>
+    <Record ID="416" DU="20.12.1993">
+        <ShortName>МЕЖДУНАРОДНЫЙ ФИНАНСОВЫЙ КЛУБ</ShortName>
+        <Bic>044525632</Bic>
+    </Record>
+    <Record ID="417" DU="27.11.1995">
+        <ShortName>ТРАСТ</ShortName>
+        <Bic>044525635</Bic>
+    </Record>
+    <Record ID="418" DU="02.12.1991">
+        <ShortName>ЗАМОСКВОРЕЦКИЙ</ShortName>
+        <Bic>044525636</Bic>
+    </Record>
+    <Record ID="419" DU="23.10.1990">
+        <ShortName>СТАРБАНК</ShortName>
+        <Bic>044525645</Bic>
+    </Record>
+    <Record ID="420" DU="30.05.2006">
+        <ShortName>НАЦИОНАЛЬНЫЙ КЛИРИНГОВЫЙ ЦЕНТР</ShortName>
+        <Bic>044525646</Bic>
+    </Record>
+    <Record ID="421" DU="16.04.2007">
+        <ShortName>МЕЖОТРАСЛЕВАЯ БАНКОВСКАЯ КОРПОРАЦИЯ</ShortName>
+        <Bic>044525650</Bic>
+    </Record>
+    <Record ID="422" DU="21.06.1994">
+        <ShortName>УНИВЕРСАЛЬНЫЙ КРЕДИТ</ShortName>
+        <Bic>044525651</Bic>
+    </Record>
+    <Record ID="423" DU="21.10.1993">
+        <ShortName>ПРИСКО КАПИТАЛ БАНК</ShortName>
+        <Bic>044525652</Bic>
+    </Record>
+    <Record ID="424" DU="14.10.2002">
+        <ShortName>НАЦКОРПБАНК</ShortName>
+        <Bic>044525653</Bic>
+    </Record>
+    <Record ID="425" DU="05.08.1992">
+        <ShortName>МОСКОВСКИЙ КРЕДИТНЫЙ БАНК</ShortName>
+        <Bic>044525659</Bic>
+    </Record>
+    <Record ID="426" DU="06.09.1994">
+        <ShortName>МИРЪ</ShortName>
+        <Bic>044525660</Bic>
+    </Record>
+    <Record ID="427" DU="02.09.1991">
+        <ShortName>СОЛИДАРНОСТЬ</ShortName>
+        <Bic>044525664</Bic>
+    </Record>
+    <Record ID="428" DU="25.09.1991">
+        <ShortName>РОСДОРБАНК</ShortName>
+        <Bic>044525666</Bic>
+    </Record>
+    <Record ID="429" DU="24.12.1991">
+        <ShortName>БПФ</ShortName>
+        <Bic>044525672</Bic>
+    </Record>
+    <Record ID="430" DU="25.09.2014">
+        <ShortName>ЧАЙНАСЕЛЬХОЗБАНК</ShortName>
+        <Bic>044525673</Bic>
+    </Record>
+    <Record ID="431" DU="24.06.1996">
+        <ShortName>РУСЬУНИВЕРСАЛБАНК</ShortName>
+        <Bic>044525674</Bic>
+    </Record>
+    <Record ID="432" DU="05.03.1994">
+        <ShortName>ДЕРЖАВА</ShortName>
+        <Bic>044525675</Bic>
+    </Record>
+    <Record ID="433" DU="11.03.1991">
+        <ShortName>РОСБИЗНЕСБАНК</ShortName>
+        <Bic>044525676</Bic>
+    </Record>
+    <Record ID="434" DU="04.08.1994">
+        <ShortName>АКРОПОЛЬ</ShortName>
+        <Bic>044525677</Bic>
+    </Record>
+    <Record ID="435" DU="22.10.2013">
+        <ShortName>МОБИ.ДЕНЬГИ</ShortName>
+        <Bic>044525678</Bic>
+    </Record>
+    <Record ID="436" DU="18.12.1991">
+        <ShortName>НЭКЛИС-БАНК</ShortName>
+        <Bic>044525679</Bic>
+    </Record>
+    <Record ID="437" DU="17.05.1994">
+        <ShortName>СТОЛИЧНЫЙ КРЕДИТ</ShortName>
+        <Bic>044525683</Bic>
+    </Record>
+    <Record ID="438" DU="29.04.1994">
+        <ShortName>РУССКИЙ ЗЕМЕЛЬНЫЙ БАНК</ShortName>
+        <Bic>044525684</Bic>
+    </Record>
+    <Record ID="439" DU="29.11.1991">
+        <ShortName>СДМ-БАНК</ShortName>
+        <Bic>044525685</Bic>
+    </Record>
+    <Record ID="440" DU="27.07.1994">
+        <ShortName>АРСЕНАЛ</ShortName>
+        <Bic>044525686</Bic>
+    </Record>
+    <Record ID="441" DU="05.03.1994">
+        <ShortName>ИНСТРОЙБАНК</ShortName>
+        <Bic>044525690</Bic>
+    </Record>
+    <Record ID="442" DU="27.07.1992">
+        <ShortName>ЕДИНАЯ РАСЧЕТНАЯ ПАЛАТА</ShortName>
+        <Bic>044525691</Bic>
+    </Record>
+    <Record ID="443" DU="02.12.1991">
+        <ShortName>МЕТРОПОЛЬ</ShortName>
+        <Bic>044525692</Bic>
+    </Record>
+    <Record ID="444" DU="25.10.1991">
+        <ShortName>ЛЕСБАНК</ShortName>
+        <Bic>044525694</Bic>
+    </Record>
+    <Record ID="445" DU="27.06.1994">
+        <ShortName>СОДРУЖЕСТВО</ShortName>
+        <Bic>044525695</Bic>
+    </Record>
+    <Record ID="446" DU="22.03.1995">
+        <ShortName>МЕЖБАНКОВСКИЙ КРЕДИТНЫЙ СОЮЗ</ShortName>
+        <Bic>044525696</Bic>
+    </Record>
+    <Record ID="447" DU="26.07.1994">
+        <ShortName>ПРОКОММЕРЦБАНК</ShortName>
+        <Bic>044525699</Bic>
+    </Record>
+    <Record ID="448" DU="10.06.1996">
+        <ShortName>РАЙФФАЙЗЕНБАНК</ShortName>
+        <Bic>044525700</Bic>
+    </Record>
+    <Record ID="449" DU="02.08.2012">
+        <ShortName>ДЕНЬГИ.МЭЙЛ.РУ</ShortName>
+        <Bic>044525701</Bic>
+    </Record>
+    <Record ID="450" DU="21.09.1993">
+        <ShortName>ЕВРОПЕЙСКИЙ ИНДУСТРИАЛЬНЫЙ БАНК</ShortName>
+        <Bic>044525703</Bic>
+    </Record>
+    <Record ID="451" DU="08.10.2012">
+        <ShortName>ЕДИНАЯ КАССА</ShortName>
+        <Bic>044525706</Bic>
+    </Record>
+    <Record ID="452" DU="27.11.1990">
+        <ShortName>ЕВРАЗИЙСКИЙ БАНК</ShortName>
+        <Bic>044525708</Bic>
+    </Record>
+    <Record ID="453" DU="14.03.1995">
+        <ShortName>АГОРА</ShortName>
+        <Bic>044525709</Bic>
+    </Record>
+    <Record ID="454" DU="09.06.1994">
+        <ShortName>АГРОПРОМКРЕДИТ</ShortName>
+        <Bic>044525710</Bic>
+    </Record>
+    <Record ID="455" DU="06.02.2002">
+        <ShortName>СОВРЕМЕННЫЕ СТАНДАРТЫ БИЗНЕСА</ShortName>
+        <Bic>044525711</Bic>
+    </Record>
+    <Record ID="456" DU="10.10.1994">
+        <ShortName>ТАЙМ БАНК</ShortName>
+        <Bic>044525713</Bic>
+    </Record>
+    <Record ID="457" DU="15.12.2005">
+        <ShortName>АМЕРИКЭН ЭКСПРЕСС БАНК</ShortName>
+        <Bic>044525717</Bic>
+    </Record>
+    <Record ID="458" DU="26.12.1991">
+        <ShortName>СТРОЙКРЕДИТ</ShortName>
+        <Bic>044525718</Bic>
+    </Record>
+    <Record ID="459" DU="10.07.1991">
+        <ShortName>ОБРАЗОВАНИЕ</ShortName>
+        <Bic>044525719</Bic>
+    </Record>
+    <Record ID="460" DU="11.04.2002">
+        <ShortName>УНИВЕРСАЛТРАСТ</ShortName>
+        <Bic>044525726</Bic>
+    </Record>
+    <Record ID="461" DU="22.02.1993">
+        <ShortName>СПЕЦСТРОЙБАНК</ShortName>
+        <Bic>044525728</Bic>
+    </Record>
+    <Record ID="462" DU="17.01.1991">
+        <ShortName>ИНВЕСТБАНК</ShortName>
+        <Bic>044525729</Bic>
+    </Record>
+    <Record ID="463" DU="22.05.1992">
+        <ShortName>АРКСБАНК</ShortName>
+        <Bic>044525731</Bic>
+    </Record>
+    <Record ID="464" DU="19.10.1993">
+        <ShortName>ПОЙДЁМ!</ShortName>
+        <Bic>044525732</Bic>
+    </Record>
+    <Record ID="465" DU="09.03.2006">
+        <ShortName>Ю БИ ЭС БАНК</ShortName>
+        <Bic>044525733</Bic>
+    </Record>
+    <Record ID="466" DU="17.06.2003">
+        <ShortName>НФК</ShortName>
+        <Bic>044525736</Bic>
+    </Record>
+    <Record ID="467" DU="20.12.1990">
+        <ShortName>ПЕРВЫЙ ДЕПОЗИТНЫЙ БАНК</ShortName>
+        <Bic>044525737</Bic>
+    </Record>
+    <Record ID="468" DU="24.10.1990">
+        <ShortName>КАПИТАЛ</ShortName>
+        <Bic>044525738</Bic>
+    </Record>
+    <Record ID="469" DU="21.09.1993">
+        <ShortName>БАНК РАУНД</ShortName>
+        <Bic>044525739</Bic>
+    </Record>
+    <Record ID="470" DU="20.12.2000">
+        <ShortName>МФТ-БАНК</ShortName>
+        <Bic>044525743</Bic>
+    </Record>
+    <Record ID="471" DU="29.04.1994">
+        <ShortName>РУБАНК</ShortName>
+        <Bic>044525744</Bic>
+    </Record>
+    <Record ID="472" DU="28.05.2002">
+        <ShortName>СМАРТБАНК</ShortName>
+        <Bic>044525746</Bic>
+    </Record>
+    <Record ID="473" DU="27.06.1995">
+        <ShortName>РОССИТА-БАНК</ShortName>
+        <Bic>044525747</Bic>
+    </Record>
+    <Record ID="474" DU="11.09.1992">
+        <ShortName>МЕЖДУНАРОДНЫЙ ПРОМЫШЛЕННЫЙ БАНК</ShortName>
+        <Bic>044525748</Bic>
+    </Record>
+    <Record ID="475" DU="27.01.1995">
+        <ShortName>СОВЕРЕН БАНК</ShortName>
+        <Bic>044525749</Bic>
+    </Record>
+    <Record ID="476" DU="10.01.1993">
+        <ShortName>МУЛЬТИБАНК</ShortName>
+        <Bic>044525752</Bic>
+    </Record>
+    <Record ID="477" DU="24.02.1994">
+        <ShortName>ТУСАР</ShortName>
+        <Bic>044525755</Bic>
+    </Record>
+    <Record ID="478" DU="03.08.1994">
+        <ShortName>МАСТЕР-КАПИТАЛ</ShortName>
+        <Bic>044525756</Bic>
+    </Record>
+    <Record ID="479" DU="05.12.1990">
+        <ShortName>РУССКИЙ СЛАВЯНСКИЙ БАНК</ShortName>
+        <Bic>044525760</Bic>
+    </Record>
+    <Record ID="480" DU="15.07.1994">
+        <ShortName>ЕВРОТРАСТ</ShortName>
+        <Bic>044525762</Bic>
+    </Record>
+    <Record ID="481" DU="02.04.2013">
+        <ShortName>ИКАНО БАНК</ShortName>
+        <Bic>044525766</Bic>
+    </Record>
+    <Record ID="482" DU="23.05.1997">
+        <ShortName>КРЕДИТ ЕВРОПА БАНК</ShortName>
+        <Bic>044525767</Bic>
+    </Record>
+    <Record ID="483" DU="27.06.1994">
+        <ShortName>ББР БАНК</ShortName>
+        <Bic>044525769</Bic>
+    </Record>
+    <Record ID="484" DU="17.03.2008">
+        <ShortName>БМВ БАНК</ShortName>
+        <Bic>044525770</Bic>
+    </Record>
+    <Record ID="485" DU="22.10.1990">
+        <ShortName>ПРОМСЕЛЬХОЗБАНК</ShortName>
+        <Bic>044525771</Bic>
+    </Record>
+    <Record ID="486" DU="08.12.1993">
+        <ShortName>КРОСНА-БАНК</ShortName>
+        <Bic>044525773</Bic>
+    </Record>
+    <Record ID="487" DU="27.08.1992">
+        <ShortName>ГЕОБАНК</ShortName>
+        <Bic>044525775</Bic>
+    </Record>
+    <Record ID="488" DU="23.12.1993">
+        <ShortName>ОБЪЕДИНЕННЫЙ БАНК ПРОМЫШЛЕННЫХ ИНВЕСТИЦИЙ</ShortName>
+        <Bic>044525776</Bic>
+    </Record>
+    <Record ID="489" DU="04.03.2013">
+        <ShortName>ЧАЙНА КОНСТРАКШН БАНК</ShortName>
+        <Bic>044525777</Bic>
+    </Record>
+    <Record ID="490" DU="08.12.1993">
+        <ShortName>ВЕСТ</ShortName>
+        <Bic>044525778</Bic>
+    </Record>
+    <Record ID="491" DU="21.03.1991">
+        <ShortName>М2М ПРАЙВЕТ БАНК</ShortName>
+        <Bic>044525779</Bic>
+    </Record>
+    <Record ID="492" DU="28.05.2002">
+        <ShortName>БАНК РСИ</ShortName>
+        <Bic>044525782</Bic>
+    </Record>
+    <Record ID="493" DU="21.12.1992">
+        <ShortName>РОСЭНЕРГОБАНК</ShortName>
+        <Bic>044525783</Bic>
+    </Record>
+    <Record ID="494" DU="16.04.1993">
+        <ShortName>ВЕК</ShortName>
+        <Bic>044525784</Bic>
+    </Record>
+    <Record ID="495" DU="28.01.1993">
+        <ShortName>УРАЛСИБ</ShortName>
+        <Bic>044525787</Bic>
+    </Record>
+    <Record ID="496" DU="03.12.1990">
+        <ShortName>МЕЖРЕГИОНБАНК</ShortName>
+        <Bic>044525789</Bic>
+    </Record>
+    <Record ID="497" DU="19.07.2001">
+        <ShortName>ОХОТНЫЙ РЯД</ShortName>
+        <Bic>044525792</Bic>
+    </Record>
+    <Record ID="498" DU="15.03.1994">
+        <ShortName>РИБ</ShortName>
+        <Bic>044525793</Bic>
+    </Record>
+    <Record ID="499" DU="10.11.2000">
+        <ShortName>РФИ БАНК</ShortName>
+        <Bic>044525799</Bic>
+    </Record>
+    <Record ID="500" DU="11.04.1995">
+        <ShortName>МОСКВА-СИТИ</ShortName>
+        <Bic>044525800</Bic>
+    </Record>
+    <Record ID="501" DU="01.06.1993">
+        <ShortName>ВЕСТА</ShortName>
+        <Bic>044525801</Bic>
+    </Record>
+    <Record ID="502" DU="06.06.2014">
+        <ShortName>КЭБ ЭЙЧЭНБИ БАНК</ShortName>
+        <Bic>044525808</Bic>
+    </Record>
+    <Record ID="503" DU="27.11.1992">
+        <ShortName>СЕТЕЛЕМ БАНК</ShortName>
+        <Bic>044525811</Bic>
+    </Record>
+    <Record ID="504" DU="23.01.1992">
+        <ShortName>ГАЗПРОМБАНК</ShortName>
+        <Bic>044525823</Bic>
+    </Record>
+    <Record ID="505" DU="13.01.1992">
+        <ShortName>СЛАВЯНСКИЙ БАНК</ShortName>
+        <Bic>044525829</Bic>
+    </Record>
+    <Record ID="506" DU="04.08.1992">
+        <ShortName>МЕЖДУНАРОДНЫЙ АКЦИОНЕРНЫЙ БАНК</ShortName>
+        <Bic>044525832</Bic>
+    </Record>
+    <Record ID="507" DU="19.10.1990">
+        <ShortName>ФИНАНС БИЗНЕС БАНК</ShortName>
+        <Bic>044525835</Bic>
+    </Record>
+    <Record ID="508" DU="09.10.1995">
+        <ShortName>САХАДАЙМОНДБАНК</ShortName>
+        <Bic>044525844</Bic>
+    </Record>
+    <Record ID="509" DU="27.06.1994">
+        <ShortName>НОВЫЙ МОСКОВСКИЙ БАНК</ShortName>
+        <Bic>044525852</Bic>
+    </Record>
+    <Record ID="510" DU="28.03.1994">
+        <ShortName>РОСАВТОБАНК</ShortName>
+        <Bic>044525857</Bic>
+    </Record>
+    <Record ID="511" DU="03.08.1994">
+        <ShortName>РЕСПУБЛИКАНСКИЙ КРЕДИТНЫЙ АЛЬЯНС</ShortName>
+        <Bic>044525860</Bic>
+    </Record>
+    <Record ID="512" DU="17.05.1994">
+        <ShortName>ЭРГОБАНК</ShortName>
+        <Bic>044525861</Bic>
+    </Record>
+    <Record ID="513" DU="17.01.1994">
+        <ShortName>ПРЕОДОЛЕНИЕ</ShortName>
+        <Bic>044525871</Bic>
+    </Record>
+    <Record ID="514" DU="27.12.2007">
+        <ShortName>РАМ БАНК</ShortName>
+        <Bic>044525878</Bic>
+    </Record>
+    <Record ID="515" DU="27.03.1996">
+        <ShortName>ВСЕРОССИЙСКИЙ БАНК РАЗВИТИЯ РЕГИОНОВ</ShortName>
+        <Bic>044525880</Bic>
+    </Record>
+    <Record ID="516" DU="11.02.1994">
+        <ShortName>КРОКУС-БАНК</ShortName>
+        <Bic>044525881</Bic>
+    </Record>
+    <Record ID="517" DU="04.07.1994">
+        <ShortName>ЕВРОКРЕДИТ</ShortName>
+        <Bic>044525882</Bic>
+    </Record>
+    <Record ID="518" DU="05.11.2001">
+        <ShortName>КОМПАНИЯ РОЗНИЧНОГО КРЕДИТОВАНИЯ</ShortName>
+        <Bic>044525887</Bic>
+    </Record>
+    <Record ID="519" DU="11.09.1992">
+        <ShortName>АЙВИ БАНК</ShortName>
+        <Bic>044525893</Bic>
+    </Record>
+    <Record ID="520" DU="08.09.1993">
+        <ShortName>МЕЖТРАСТБАНК</ShortName>
+        <Bic>044525895</Bic>
+    </Record>
+    <Record ID="521" DU="16.12.1991">
+        <ShortName>БАНК ПРЕМЬЕР КРЕДИТ</ShortName>
+        <Bic>044525899</Bic>
+    </Record>
+    <Record ID="522" DU="10.12.1990">
+        <ShortName>ФРИДОМ ФИНАНС</ShortName>
+        <Bic>044525900</Bic>
+    </Record>
+    <Record ID="523" DU="11.05.1994">
+        <ShortName>СОКОЛОВСКИЙ</ShortName>
+        <Bic>044525901</Bic>
+    </Record>
+    <Record ID="524" DU="19.04.1994">
+        <ShortName>НАЦИОНАЛЬНЫЙ БАНК РАЗВИТИЯ БИЗНЕСА</ShortName>
+        <Bic>044525902</Bic>
+    </Record>
+    <Record ID="525" DU="20.07.1994">
+        <ShortName>РОСКОСМОСБАНК</ShortName>
+        <Bic>044525904</Bic>
+    </Record>
+    <Record ID="526" DU="31.03.1994">
+        <ShortName>СЕВЕРО-ВОСТОЧНЫЙ АЛЬЯНС</ShortName>
+        <Bic>044525907</Bic>
+    </Record>
+    <Record ID="527" DU="04.08.1994">
+        <ShortName>ХОЛДИНГ-КРЕДИТ</ShortName>
+        <Bic>044525910</Bic>
+    </Record>
+    <Record ID="528" DU="20.12.1991">
+        <ShortName>ГУТА-БАНК</ShortName>
+        <Bic>044525911</Bic>
+    </Record>
+    <Record ID="529" DU="27.07.1994">
+        <ShortName>СУДОСТРОИТЕЛЬНЫЙ БАНК</ShortName>
+        <Bic>044525921</Bic>
+    </Record>
+    <Record ID="530" DU="31.12.1992">
+        <ShortName>БАНК ИНТЕЗА</ShortName>
+        <Bic>044525922</Bic>
+    </Record>
+    <Record ID="531" DU="28.01.1994">
+        <ShortName>ЛАДА-КРЕДИТ</ShortName>
+        <Bic>044525928</Bic>
+    </Record>
+    <Record ID="532" DU="10.12.1990">
+        <ShortName>РУССКИЙ ТРАСТОВЫЙ БАНК</ShortName>
+        <Bic>044525930</Bic>
+    </Record>
+    <Record ID="533" DU="20.05.1993">
+        <ShortName>ПЛАТИНА</ShortName>
+        <Bic>044525931</Bic>
+    </Record>
+    <Record ID="534" DU="29.04.1993">
+        <ShortName>КЛИЕНТСКИЙ</ShortName>
+        <Bic>044525932</Bic>
+    </Record>
+    <Record ID="535" DU="26.11.1992">
+        <ShortName>НАЦИОНАЛЬНЫЙ РЕЗЕРВНЫЙ БАНК</ShortName>
+        <Bic>044525933</Bic>
+    </Record>
+    <Record ID="536" DU="31.03.2005">
+        <ShortName>ИНКАХРАН</ShortName>
+        <Bic>044525934</Bic>
+    </Record>
+    <Record ID="537" DU="03.12.2009">
+        <ShortName>ФИНТЕХ</ShortName>
+        <Bic>044525935</Bic>
+    </Record>
+    <Record ID="538" DU="26.08.1993">
+        <ShortName>МЗБ</ShortName>
+        <Bic>044525936</Bic>
+    </Record>
+    <Record ID="539" DU="27.11.1990">
+        <ShortName>БАЛТИКА</ShortName>
+        <Bic>044525946</Bic>
+    </Record>
+    <Record ID="540" DU="11.04.2001">
+        <ShortName>МОСКОММЕРЦБАНК</ShortName>
+        <Bic>044525951</Bic>
+    </Record>
+    <Record ID="541" DU="10.08.1994">
+        <ShortName>ИНТЕРКРЕДИТ</ShortName>
+        <Bic>044525957</Bic>
+    </Record>
+    <Record ID="542" DU="10.06.1994">
+        <ShortName>ВИТЯЗЬ</ShortName>
+        <Bic>044525971</Bic>
+    </Record>
+    <Record ID="543" DU="28.01.1994">
+        <ShortName>ТИНЬКОФФ БАНК</ShortName>
+        <Bic>044525974</Bic>
+    </Record>
+    <Record ID="544" DU="22.04.1993">
+        <ShortName>АБСОЛЮТ БАНК</ShortName>
+        <Bic>044525976</Bic>
+    </Record>
+    <Record ID="545" DU="03.08.1994">
+        <ShortName>РАЗВИТИЕ-СТОЛИЦА</ShortName>
+        <Bic>044525984</Bic>
+    </Record>
+    <Record ID="546" DU="15.12.1992">
+        <ShortName>ФК ОТКРЫТИЕ</ShortName>
+        <Bic>044525985</Bic>
+    </Record>
+    <Record ID="547" DU="07.07.1993">
+        <ShortName>ПРОБИЗНЕСБАНК</ShortName>
+        <Bic>044525986</Bic>
+    </Record>
+    <Record ID="548" DU="03.08.1994">
+        <ShortName>НОРДЕА БАНК</ShortName>
+        <Bic>044525990</Bic>
+    </Record>
+    <Record ID="549" DU="10.05.2001">
+        <ShortName>РЕГНУМ</ShortName>
+        <Bic>044525993</Bic>
+    </Record>
+    <Record ID="550" DU="23.05.1994">
+        <ShortName>НЕФТЯНОЙ АЛЬЯНС</ShortName>
+        <Bic>044525994</Bic>
+    </Record>
+    <Record ID="551" DU="08.07.1999">
+        <ShortName>МУРМАНСКИЙ РАСЧЕТНЫЙ ЦЕНТР</ShortName>
+        <Bic>044705301</Bic>
+    </Record>
+    <Record ID="552" DU="25.02.1994">
+        <ShortName>МСКБ</ShortName>
+        <Bic>044705768</Bic>
+    </Record>
+    <Record ID="553" DU="24.01.1991">
+        <ShortName>НОВОБАНК</ShortName>
+        <Bic>044959746</Bic>
+    </Record>
+    <Record ID="554" DU="15.11.1990">
+        <ShortName>СЛАВЯНБАНК</ShortName>
+        <Bic>044959775</Bic>
+    </Record>
+    <Record ID="555" DU="05.12.2014">
+        <ShortName>ПЛАТЕЖНЫЙ СТАНДАРТ</ShortName>
+        <Bic>045004814</Bic>
+    </Record>
+    <Record ID="556" DU="24.10.1990">
+        <ShortName>АКЦЕПТ</ShortName>
+        <Bic>045004815</Bic>
+    </Record>
+    <Record ID="557" DU="02.12.1994">
+        <ShortName>ПЛАТЕЖНЫЙ ЦЕНТР</ShortName>
+        <Bic>045004832</Bic>
+    </Record>
+    <Record ID="558" DU="17.01.1991">
+        <ShortName>ЛЕВОБЕРЕЖНЫЙ</ShortName>
+        <Bic>045004850</Bic>
+    </Record>
+    <Record ID="559" DU="29.06.1994">
+        <ShortName>ЭКСПЕРТ БАНК</ShortName>
+        <Bic>045209701</Bic>
+    </Record>
+    <Record ID="560" DU="13.12.1993">
+        <ShortName>ИТ БАНК</ShortName>
+        <Bic>045209702</Bic>
+    </Record>
+    <Record ID="561" DU="24.05.1993">
+        <ShortName>СИБЭС</ShortName>
+        <Bic>045209713</Bic>
+    </Record>
+    <Record ID="562" DU="11.06.2015">
+        <ShortName>ПЕРСПЕКТИВА</ShortName>
+        <Bic>045209885</Bic>
+    </Record>
+    <Record ID="563" DU="24.12.1990">
+        <ShortName>БУЗУЛУКБАНК</ShortName>
+        <Bic>045306818</Bic>
+    </Record>
+    <Record ID="564" DU="02.11.1990">
+        <ShortName>НИКО-БАНК</ShortName>
+        <Bic>045354814</Bic>
+    </Record>
+    <Record ID="565" DU="15.12.1992">
+        <ShortName>ФОРШТАДТ</ShortName>
+        <Bic>045354860</Bic>
+    </Record>
+    <Record ID="566" DU="22.09.1995">
+        <ShortName>БАНК ОРЕНБУРГ</ShortName>
+        <Bic>045354885</Bic>
+    </Record>
+    <Record ID="567" DU="16.11.1995">
+        <ShortName>ЦЕРИХ</ShortName>
+        <Bic>045402719</Bic>
+    </Record>
+    <Record ID="568" DU="27.06.1994">
+        <ShortName>ОРЛОВСКИЙ СОЦИАЛЬНЫЙ БАНК</ShortName>
+        <Bic>045402727</Bic>
+    </Record>
+    <Record ID="569" DU="26.10.1990">
+        <ShortName>КУЗНЕЦКИЙ</ShortName>
+        <Bic>045655707</Bic>
+    </Record>
+    <Record ID="570" DU="30.04.1992">
+        <ShortName>ПОЧТОБАНК</ShortName>
+        <Bic>045773705</Bic>
+    </Record>
+    <Record ID="571" DU="17.08.1992">
+        <ShortName>ЭКОПРОМБАНК</ShortName>
+        <Bic>045773707</Bic>
+    </Record>
+    <Record ID="572" DU="22.11.1990">
+        <ShortName>ПЕРМЬ</ShortName>
+        <Bic>045773756</Bic>
+    </Record>
+    <Record ID="573" DU="14.11.1990">
+        <ShortName>ПРОФЕССИОНАЛЬНЫЙ ИНВЕСТИЦИОННЫЙ БАНК</ShortName>
+        <Bic>045773764</Bic>
+    </Record>
+    <Record ID="574" DU="27.12.1991">
+        <ShortName>УРАЛЬСКИЙ ФИНАНСОВЫЙ ДОМ</ShortName>
+        <Bic>045773790</Bic>
+    </Record>
+    <Record ID="575" DU="26.10.1990">
+        <ShortName>ВЕЛИКИЕ ЛУКИ БАНК</ShortName>
+        <Bic>045853729</Bic>
+    </Record>
+    <Record ID="576" DU="26.12.1990">
+        <ShortName>ВАКОБАНК</ShortName>
+        <Bic>045853774</Bic>
+    </Record>
+    <Record ID="577" DU="19.07.1994">
+        <ShortName>ДОНСКОЙ ИНВЕСТИЦИОННЫЙ БАНК</ShortName>
+        <Bic>046014339</Bic>
+    </Record>
+    <Record ID="578" DU="21.02.1992">
+        <ShortName>ДОН-ТЕКСБАНК</ShortName>
+        <Bic>046014718</Bic>
+    </Record>
+    <Record ID="579" DU="15.10.1990">
+        <ShortName>РОСТФИНАНС</ShortName>
+        <Bic>046015052</Bic>
+    </Record>
+    <Record ID="580" DU="24.10.1990">
+        <ShortName>ЗЕМЕЛЬНЫЙ</ShortName>
+        <Bic>046015078</Bic>
+    </Record>
+    <Record ID="581" DU="25.10.1993">
+        <ShortName>КАПИТАЛБАНК</ShortName>
+        <Bic>046015728</Bic>
+    </Record>
+    <Record ID="582" DU="28.12.1992">
+        <ShortName>ЦЕНТР-ИНВЕСТ</ShortName>
+        <Bic>046015762</Bic>
+    </Record>
+    <Record ID="583" DU="31.08.1993">
+        <ShortName>ЮЖНЫЙ ТОРГОВЫЙ БАНК</ShortName>
+        <Bic>046015797</Bic>
+    </Record>
+    <Record ID="584" DU="17.10.1990">
+        <ShortName>ДОНКОМБАНК</ShortName>
+        <Bic>046015804</Bic>
+    </Record>
+    <Record ID="585" DU="06.08.1991">
+        <ShortName>СЕЛЬМАШБАНК</ShortName>
+        <Bic>046015860</Bic>
+    </Record>
+    <Record ID="586" DU="06.11.1991">
+        <ShortName>ДОНИНВЕСТ</ShortName>
+        <Bic>046015872</Bic>
+    </Record>
+    <Record ID="587" DU="29.06.1994">
+        <ShortName>СТЕЛЛА-БАНК</ShortName>
+        <Bic>046015938</Bic>
+    </Record>
+    <Record ID="588" DU="19.10.1994">
+        <ShortName>ТАГАНРОГБАНК</ShortName>
+        <Bic>046015946</Bic>
+    </Record>
+    <Record ID="589" DU="19.04.1994">
+        <ShortName>ВЯТИЧ</ShortName>
+        <Bic>046126701</Bic>
+    </Record>
+    <Record ID="590" DU="27.12.1991">
+        <ShortName>ПРИО-ВНЕШТОРГБАНК</ShortName>
+        <Bic>046126708</Bic>
+    </Record>
+    <Record ID="591" DU="08.09.1992">
+        <ShortName>ЖИВАГО БАНК</ShortName>
+        <Bic>046126744</Bic>
+    </Record>
+    <Record ID="592" DU="07.07.1995">
+        <ShortName>РИНВЕСТБАНК</ShortName>
+        <Bic>046126790</Bic>
+    </Record>
+    <Record ID="593" DU="29.12.1990">
+        <ShortName>ЭКОНОМБАНК</ShortName>
+        <Bic>046311722</Bic>
+    </Record>
+    <Record ID="594" DU="20.05.1992">
+        <ShortName>НИЖНЕВОЛЖСКИЙ КОММЕРЧЕСКИЙ БАНК</ShortName>
+        <Bic>046311751</Bic>
+    </Record>
+    <Record ID="595" DU="28.06.1990">
+        <ShortName>САРАТОВ</ShortName>
+        <Bic>046311755</Bic>
+    </Record>
+    <Record ID="596" DU="23.05.1994">
+        <ShortName>АГРОРОС</ShortName>
+        <Bic>046311772</Bic>
+    </Record>
+    <Record ID="597" DU="08.10.1990">
+        <ShortName>БАЛАКОВО-БАНК</ShortName>
+        <Bic>046311890</Bic>
+    </Record>
+    <Record ID="598" DU="28.02.1995">
+        <ShortName>ГАЗНЕФТЬБАНК</ShortName>
+        <Bic>046311902</Bic>
+    </Record>
+    <Record ID="599" DU="10.06.1994">
+        <ShortName>СИНЕРГИЯ</ShortName>
+        <Bic>046311926</Bic>
+    </Record>
+    <Record ID="600" DU="21.11.1990">
+        <ShortName>ДОЛИНСК</ShortName>
+        <Bic>046401727</Bic>
+    </Record>
+    <Record ID="601" DU="20.02.1991">
+        <ShortName>ТИХООКЕАНСКИЙ ВНЕШТОРГБАНК</ShortName>
+        <Bic>046401728</Bic>
+    </Record>
+    <Record ID="602" DU="18.06.1993">
+        <ShortName>ИТУРУП</ShortName>
+        <Bic>046401772</Bic>
+    </Record>
+    <Record ID="603" DU="17.10.1990">
+        <ShortName>ХОЛМСК</ShortName>
+        <Bic>046401989</Bic>
+    </Record>
+    <Record ID="604" DU="10.07.1992">
+        <ShortName>ПЕРВОУРАЛЬСКБАНК</ShortName>
+        <Bic>046577402</Bic>
+    </Record>
+    <Record ID="605" DU="02.11.1990">
+        <ShortName>СКБ-БАНК</ShortName>
+        <Bic>046577756</Bic>
+    </Record>
+    <Record ID="606" DU="14.02.1991">
+        <ShortName>КОЛЬЦО УРАЛА</ShortName>
+        <Bic>046577768</Bic>
+    </Record>
+    <Record ID="607" DU="26.12.1990">
+        <ShortName>НЕЙВА</ShortName>
+        <Bic>046577774</Bic>
+    </Record>
+    <Record ID="608" DU="05.09.1991">
+        <ShortName>ВУЗ-БАНК</ShortName>
+        <Bic>046577781</Bic>
+    </Record>
+    <Record ID="609" DU="28.09.1990">
+        <ShortName>УРАЛЬСКИЙ БАНК РЕКОНСТРУКЦИИ И РАЗВИТИЯ</ShortName>
+        <Bic>046577795</Bic>
+    </Record>
+    <Record ID="610" DU="09.09.1992">
+        <ShortName>ПЛАТО-БАНК</ShortName>
+        <Bic>046577851</Bic>
+    </Record>
+    <Record ID="611" DU="30.12.1992">
+        <ShortName>ВЕФК-УРАЛ</ShortName>
+        <Bic>046577870</Bic>
+    </Record>
+    <Record ID="612" DU="02.08.1993">
+        <ShortName>МЕТКОМБАНК</ShortName>
+        <Bic>046577881</Bic>
+    </Record>
+    <Record ID="613" DU="25.11.1994">
+        <ShortName>ЕКАТЕРИНБУРГ</ShortName>
+        <Bic>046577904</Bic>
+    </Record>
+    <Record ID="614" DU="07.02.1991">
+        <ShortName>УРАЛФИНАНС</ShortName>
+        <Bic>046577993</Bic>
+    </Record>
+    <Record ID="615" DU="07.12.1990">
+        <ShortName>СМОЛЕВИЧ</ShortName>
+        <Bic>046614748</Bic>
+    </Record>
+    <Record ID="616" DU="15.08.2014">
+        <ShortName>СЕВАСТОПОЛЬСКИЙ МОРСКОЙ БАНК</ShortName>
+        <Bic>046711103</Bic>
+    </Record>
+    <Record ID="617" DU="05.12.1990">
+        <ShortName>ВВБ</ShortName>
+        <Bic>046711106</Bic>
+    </Record>
+    <Record ID="618" DU="28.12.1990">
+        <ShortName>ТАМБОВКРЕДИТПРОМБАНК</ShortName>
+        <Bic>046850755</Bic>
+    </Record>
+    <Record ID="619" DU="10.01.1992">
+        <ShortName>ТОМСКПРОМСТРОЙБАНК</ShortName>
+        <Bic>046902728</Bic>
+    </Record>
+    <Record ID="620" DU="11.06.1993">
+        <ShortName>ТУЛЬСКИЙ ПРОМЫШЛЕННИК</ShortName>
+        <Bic>047003729</Bic>
+    </Record>
+    <Record ID="621" DU="21.03.1995">
+        <ShortName>ПЕРВЫЙ ЭКСПРЕСС</ShortName>
+        <Bic>047003779</Bic>
+    </Record>
+    <Record ID="622" DU="23.11.1990">
+        <ShortName>ЗАПСИБКОМБАНК</ShortName>
+        <Bic>047102613</Bic>
+    </Record>
+    <Record ID="623" DU="26.07.1994">
+        <ShortName>СТРОЙЛЕСБАНК</ShortName>
+        <Bic>047102658</Bic>
+    </Record>
+    <Record ID="624" DU="28.11.1990">
+        <ShortName>ДРУЖБА</ShortName>
+        <Bic>047102802</Bic>
+    </Record>
+    <Record ID="625" DU="25.12.1990">
+        <ShortName>СИБИРСКИЙ БАНК РЕКОНСТРУКЦИИ И РАЗВИТИЯ</ShortName>
+        <Bic>047102804</Bic>
+    </Record>
+    <Record ID="626" DU="06.09.1991">
+        <ShortName>СИБНЕФТЕБАНК</ShortName>
+        <Bic>047102861</Bic>
+    </Record>
+    <Record ID="627" DU="23.11.1990">
+        <ShortName>ТЮМЕНЬАГРОПРОМБАНК</ShortName>
+        <Bic>047102885</Bic>
+    </Record>
+    <Record ID="628" DU="25.10.1990">
+        <ShortName>СУРГУТНЕФТЕГАЗБАНК</ShortName>
+        <Bic>047144709</Bic>
+    </Record>
+    <Record ID="629" DU="02.11.1990">
+        <ShortName>ПУРПЕ</ShortName>
+        <Bic>047169702</Bic>
+    </Record>
+    <Record ID="630" DU="17.02.1992">
+        <ShortName>ЕРМАК</ShortName>
+        <Bic>047169742</Bic>
+    </Record>
+    <Record ID="631" DU="22.10.1990">
+        <ShortName>ПРИОБЬЕ</ShortName>
+        <Bic>047169777</Bic>
+    </Record>
+    <Record ID="632" DU="31.10.1990">
+        <ShortName>СИМБИРСК</ShortName>
+        <Bic>047308811</Bic>
+    </Record>
+    <Record ID="633" DU="19.10.1990">
+        <ShortName>ВЕНЕЦ</ShortName>
+        <Bic>047308813</Bic>
+    </Record>
+    <Record ID="634" DU="30.10.1990">
+        <ShortName>ПВ-БАНК</ShortName>
+        <Bic>047308815</Bic>
+    </Record>
+    <Record ID="635" DU="20.11.1990">
+        <ShortName>РЕГИОНАЛЬНЫЙ КОММЕРЧЕСКИЙ БАНК</ShortName>
+        <Bic>047308818</Bic>
+    </Record>
+    <Record ID="636" DU="16.10.1990">
+        <ShortName>ЧЕЛИНДБАНК</ShortName>
+        <Bic>047501711</Bic>
+    </Record>
+    <Record ID="637" DU="20.11.1991">
+        <ShortName>УРАЛЛИГА</ShortName>
+        <Bic>047501742</Bic>
+    </Record>
+    <Record ID="638" DU="03.06.1993">
+        <ShortName>РЕЗЕРВ</ShortName>
+        <Bic>047501751</Bic>
+    </Record>
+    <Record ID="639" DU="17.10.1990">
+        <ShortName>ЧЕЛЯБИНВЕСТБАНК</ShortName>
+        <Bic>047501779</Bic>
+    </Record>
+    <Record ID="640" DU="27.07.1994">
+        <ShortName>УГЛЕМЕТБАНК</ShortName>
+        <Bic>047501787</Bic>
+    </Record>
+    <Record ID="641" DU="14.02.1991">
+        <ShortName>СНЕЖИНСКИЙ</ShortName>
+        <Bic>047501799</Bic>
+    </Record>
+    <Record ID="642" DU="27.12.1990">
+        <ShortName>УИК-БАНК</ShortName>
+        <Bic>047501843</Bic>
+    </Record>
+    <Record ID="643" DU="11.07.1994">
+        <ShortName>УРАЛПРОМБАНК</ShortName>
+        <Bic>047501906</Bic>
+    </Record>
+    <Record ID="644" DU="25.11.1993">
+        <ShortName>КРЕДИТ УРАЛ БАНК</ShortName>
+        <Bic>047516949</Bic>
+    </Record>
+    <Record ID="645" DU="12.06.1992">
+        <ShortName>БУЛГАР БАНК</ShortName>
+        <Bic>047888372</Bic>
+    </Record>
+    <Record ID="646" DU="01.11.1993">
+        <ShortName>ЯРИНТЕРБАНК</ShortName>
+        <Bic>047888728</Bic>
+    </Record>
+    <Record ID="647" DU="12.12.1990">
+        <ShortName>КРЕДПРОМБАНК</ShortName>
+        <Bic>047888786</Bic>
+    </Record>
+    <Record ID="648" DU="21.02.1992">
+        <ShortName>НОВАЦИЯ</ShortName>
+        <Bic>047908700</Bic>
+    </Record>
+    <Record ID="649" DU="10.12.1990">
+        <ShortName>МАЙКОПБАНК</ShortName>
+        <Bic>047908704</Bic>
+    </Record>
+    <Record ID="650" DU="26.06.1992">
+        <ShortName>ПЛАТЕЖНЫЙ СЕРВИСНЫЙ БАНК</ShortName>
+        <Bic>048073765</Bic>
+    </Record>
+    <Record ID="651" DU="01.03.1991">
+        <ShortName>РОСКОМСНАББАНК</ShortName>
+        <Bic>048073842</Bic>
+    </Record>
+    <Record ID="652" DU="30.12.1993">
+        <ShortName>ПРОМТРАНСБАНК</ShortName>
+        <Bic>048073846</Bic>
+    </Record>
+    <Record ID="653" DU="28.11.1990">
+        <ShortName>АФ БАНК</ShortName>
+        <Bic>048073855</Bic>
+    </Record>
+    <Record ID="654" DU="26.07.1993">
+        <ShortName>МОЙ БАНК. ИПОТЕКА</ShortName>
+        <Bic>048073917</Bic>
+    </Record>
+    <Record ID="655" DU="24.12.1993">
+        <ShortName>БАЙКАЛБАНК</ShortName>
+        <Bic>048142736</Bic>
+    </Record>
+    <Record ID="656" DU="22.03.1994">
+        <ShortName>ПРОМСВЯЗЬИНВЕСТ</ShortName>
+        <Bic>048209395</Bic>
+    </Record>
+    <Record ID="657" DU="25.12.1990">
+        <ShortName>НОВЫЙ КОММЕРЧЕСКИЙ БАНК</ShortName>
+        <Bic>048209711</Bic>
+    </Record>
+    <Record ID="658" DU="14.12.1990">
+        <ShortName>КРЕДИТИНВЕСТ</ShortName>
+        <Bic>048209719</Bic>
+    </Record>
+    <Record ID="659" DU="24.10.1990">
+        <ShortName>АНДЖИБАНК</ShortName>
+        <Bic>048209729</Bic>
+    </Record>
+    <Record ID="660" DU="29.07.1992">
+        <ShortName>ЭСИДБАНК</ShortName>
+        <Bic>048209742</Bic>
+    </Record>
+    <Record ID="661" DU="30.09.1992">
+        <ShortName>ИМБАНК</ShortName>
+        <Bic>048209744</Bic>
+    </Record>
+    <Record ID="662" DU="14.11.1990">
+        <ShortName>КРЕДО ФИНАНС</ShortName>
+        <Bic>048209748</Bic>
+    </Record>
+    <Record ID="663" DU="05.07.1993">
+        <ShortName>МВС БАНК</ShortName>
+        <Bic>048209775</Bic>
+    </Record>
+    <Record ID="664" DU="27.06.1994">
+        <ShortName>ПРЕСТИЖКРЕДИТБАНК</ShortName>
+        <Bic>048209848</Bic>
+    </Record>
+    <Record ID="665" DU="06.09.1994">
+        <ShortName>ЭКСПРЕСС</ShortName>
+        <Bic>048209918</Bic>
+    </Record>
+    <Record ID="666" DU="27.02.1996">
+        <ShortName>ДАГЭНЕРГОБАНК</ShortName>
+        <Bic>048209964</Bic>
+    </Record>
+    <Record ID="667" DU="18.12.1991">
+        <ShortName>МАЙСКИЙ</ShortName>
+        <Bic>048327736</Bic>
+    </Record>
+    <Record ID="668" DU="02.11.1990">
+        <ShortName>НАЛЬЧИК</ShortName>
+        <Bic>048327741</Bic>
+    </Record>
+    <Record ID="669" DU="22.11.1990">
+        <ShortName>ПРОХЛАДНЫЙ</ShortName>
+        <Bic>048327765</Bic>
+    </Record>
+    <Record ID="670" DU="17.01.1994">
+        <ShortName>НООСФЕРА</ShortName>
+        <Bic>048405718</Bic>
+    </Record>
+    <Record ID="671" DU="29.11.1990">
+        <ShortName>КРЕДИТБАНК</ShortName>
+        <Bic>048580724</Bic>
+    </Record>
+    <Record ID="672" DU="08.09.1993">
+        <ShortName>ОНЕГО</ShortName>
+        <Bic>048602746</Bic>
+    </Record>
+    <Record ID="673" DU="25.02.1994">
+        <ShortName>СЕВЕРНЫЙ НАРОДНЫЙ БАНК</ShortName>
+        <Bic>048702781</Bic>
+    </Record>
+    <Record ID="674" DU="04.06.2012">
+        <ShortName>МОНЕТА</ShortName>
+        <Bic>048860734</Bic>
+    </Record>
+    <Record ID="675" DU="22.04.1994">
+        <ShortName>ЙОШКАР-ОЛА</ShortName>
+        <Bic>048860889</Bic>
+    </Record>
+    <Record ID="676" DU="21.02.1994">
+        <ShortName>ИНТЕРКАПИТАЛ-БАНК</ShortName>
+        <Bic>048952630</Bic>
+    </Record>
+    <Record ID="677" DU="13.04.1992">
+        <ShortName>КС БАНК</ShortName>
+        <Bic>048952749</Bic>
+    </Record>
+    <Record ID="678" DU="14.10.1993">
+        <ShortName>АКТИВ БАНК</ShortName>
+        <Bic>048952752</Bic>
+    </Record>
+    <Record ID="679" DU="06.04.1994">
+        <ShortName>АРТ-БАНК</ShortName>
+        <Bic>049033745</Bic>
+    </Record>
+    <Record ID="680" DU="10.06.1994">
+        <ShortName>1БАНК</ShortName>
+        <Bic>049033746</Bic>
+    </Record>
+    <Record ID="681" DU="24.07.1996">
+        <ShortName>КЛАССИК ЭКОНОМ БАНК</ShortName>
+        <Bic>049033758</Bic>
+    </Record>
+    <Record ID="682" DU="25.08.1997">
+        <ShortName>БАНК РАЗВИТИЯ РЕГИОНА</ShortName>
+        <Bic>049033764</Bic>
+    </Record>
+    <Record ID="683" DU="12.07.1993">
+        <ShortName>ДИГ-БАНК</ShortName>
+        <Bic>049033780</Bic>
+    </Record>
+    <Record ID="684" DU="04.03.1994">
+        <ShortName>РАЗВИТИЕ</ShortName>
+        <Bic>049133812</Bic>
+    </Record>
+    <Record ID="685" DU="18.03.1994">
+        <ShortName>ТЕКСБАНК</ShortName>
+        <Bic>049133845</Bic>
+    </Record>
+    <Record ID="686" DU="21.03.2019">
+        <ShortName>БАНК 131</ShortName>
+        <Bic>049205131</Bic>
+    </Record>
+    <Record ID="687" DU="19.11.1998">
+        <ShortName>СЕТЕВАЯ РАСЧЕТНАЯ ПАЛАТА</ShortName>
+        <Bic>049205201</Bic>
+    </Record>
+    <Record ID="688" DU="24.03.1992">
+        <ShortName>КАМСКИЙ КОММЕРЧЕСКИЙ БАНК</ShortName>
+        <Bic>049205525</Bic>
+    </Record>
+    <Record ID="689" DU="12.10.1990">
+        <ShortName>ТАТСОЦБАНК</ShortName>
+        <Bic>049205703</Bic>
+    </Record>
+    <Record ID="690" DU="11.11.1990">
+        <ShortName>ТАТАГРОПРОМБАНК</ShortName>
+        <Bic>049205708</Bic>
+    </Record>
+    <Record ID="691" DU="30.10.1991">
+        <ShortName>ЭНЕРГОБАНК</ShortName>
+        <Bic>049205770</Bic>
+    </Record>
+    <Record ID="692" DU="16.11.1990">
+        <ShortName>ЗАРЕЧЬЕ</ShortName>
+        <Bic>049205772</Bic>
+    </Record>
+    <Record ID="693" DU="25.09.1990">
+        <ShortName>АВЕРС</ShortName>
+        <Bic>049205774</Bic>
+    </Record>
+    <Record ID="694" DU="22.07.1992">
+        <ShortName>АВТОКРЕДИТБАНК</ShortName>
+        <Bic>049205795</Bic>
+    </Record>
+    <Record ID="695" DU="21.02.1994">
+        <ShortName>ИНТЕХБАНК</ShortName>
+        <Bic>049205804</Bic>
+    </Record>
+    <Record ID="696" DU="29.11.1993">
+        <ShortName>АК БАРС</ShortName>
+        <Bic>049205805</Bic>
+    </Record>
+    <Record ID="697" DU="24.08.1994">
+        <ShortName>ТАТФОНДБАНК</ShortName>
+        <Bic>049205815</Bic>
+    </Record>
+    <Record ID="698" DU="02.11.1990">
+        <ShortName>БАНК КАЗАНИ</ShortName>
+        <Bic>049205844</Bic>
+    </Record>
+    <Record ID="699" DU="22.12.1992">
+        <ShortName>СПУРТ</ShortName>
+        <Bic>049205858</Bic>
+    </Record>
+    <Record ID="700" DU="26.04.1991">
+        <ShortName>АВТОГРАДБАНК</ShortName>
+        <Bic>049205878</Bic>
+    </Record>
+    <Record ID="701" DU="10.06.1992">
+        <ShortName>НАРАТ</ShortName>
+        <Bic>049205885</Bic>
+    </Record>
+    <Record ID="702" DU="10.09.1992">
+        <ShortName>АЛТЫНБАНК</ShortName>
+        <Bic>049205919</Bic>
+    </Record>
+    <Record ID="703" DU="25.11.1993">
+        <ShortName>АКИБАНК</ShortName>
+        <Bic>049205933</Bic>
+    </Record>
+    <Record ID="704" DU="27.03.1992">
+        <ShortName>ИК БАНК</ShortName>
+        <Bic>049209767</Bic>
+    </Record>
+    <Record ID="705" DU="09.12.1992">
+        <ShortName>АНКОР БАНК</ShortName>
+        <Bic>049209778</Bic>
+    </Record>
+    <Record ID="706" DU="28.12.1990">
+        <ShortName>НАРОДНЫЙ БАНК ТУВЫ</ShortName>
+        <Bic>049304735</Bic>
+    </Record>
+    <Record ID="707" DU="25.07.2016">
+        <ShortName>ЭЛПЛАТ</ShortName>
+        <Bic>049401758</Bic>
+    </Record>
+    <Record ID="708" DU="02.04.1992">
+        <ShortName>БЫСТРОБАНК</ShortName>
+        <Bic>049401814</Bic>
+    </Record>
+    <Record ID="709" DU="19.10.1990">
+        <ShortName>МОБИЛБАНК</ShortName>
+        <Bic>049401825</Bic>
+    </Record>
+    <Record ID="710" DU="03.08.1993">
+        <ShortName>УДМУРТИНВЕСТСТРОЙБАНК</ShortName>
+        <Bic>049401863</Bic>
+    </Record>
+    <Record ID="711" DU="05.10.1993">
+        <ShortName>УРАЛЬСКИЙ ТРАСТОВЫЙ БАНК</ShortName>
+        <Bic>049401869</Bic>
+    </Record>
+    <Record ID="712" DU="30.10.1990">
+        <ShortName>ДАТАБАНК</ShortName>
+        <Bic>049401871</Bic>
+    </Record>
+    <Record ID="713" DU="03.12.1990">
+        <ShortName>ХАКАССКИЙ МУНИЦИПАЛЬНЫЙ БАНК</ShortName>
+        <Bic>049514745</Bic>
+    </Record>
+    <Record ID="714" DU="03.12.1990">
+        <ShortName>БИЗНЕС ДЛЯ БИЗНЕСА</ShortName>
+        <Bic>049706717</Bic>
+    </Record>
+    <Record ID="715" DU="09.08.1995">
+        <ShortName>МЕГАПОЛИС</ShortName>
+        <Bic>049706723</Bic>
+    </Record>
+    <Record ID="716" DU="29.11.1990">
+        <ShortName>ОБЪЕДИНЕННЫЙ БАНК РЕСПУБЛИКИ</ShortName>
+        <Bic>049706749</Bic>
+    </Record>
+    <Record ID="717" DU="06.12.1993">
+        <ShortName>АЛМАЗЭРГИЭНБАНК</ShortName>
+        <Bic>049805770</Bic>
+    </Record>
+</BicCode>
