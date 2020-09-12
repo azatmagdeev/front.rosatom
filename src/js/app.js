@@ -30,9 +30,10 @@ form.addEventListener('submit',(e)=>{
         if(form[0].value !== '' && form[1].value !== ''){
         console.log(form[0].value);
         console.log(form[1].value);
+
         loadingGif();
         setTimeout(()=>{
-
+            window.location.href='/portal';
             loadingGifEnd()
         },2000)
     }
