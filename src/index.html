@@ -37,33 +37,34 @@
         }
 
         body {
-            height:100vh;
+            height: 100vh;
             background-image: url("img/background.jpg");
             background-size: cover;
             overflow: hidden;
 
         }
-        #loading{
-            position:absolute;
+
+        #loading {
+            position: absolute;
             z-index: 10;
             width: 100vw;
             height: 100vh;
-            background-color: rgba(100%,100%,100%,.8);
-            display:none;
+            background-color: rgba(100%, 100%, 100%, .8);
+            display: none;
             justify-content: center;
             align-items: center;
         }
 
-        #loading img{
-           animation: loading-animation 1.7s infinite linear;
+        #loading img {
+            animation: loading-animation 1.7s infinite linear;
         }
 
         @keyframes loading-animation {
-            0%, 100%{
-                transform: scale(1,1);
+            0%, 100% {
+                transform: scale(1, 1);
             }
-            50%{
-                transform: scale(1.2,1.2)
+            50% {
+                transform: scale(1.2, 1.2)
             }
         }
     </style>
@@ -92,7 +93,7 @@
             <div class="form-group">
                 <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Введите пароль">
             </div>
-            <button  class="btn btn-primary">Вход</button>
+            <button class="btn btn-primary">Вход</button>
             <div class="mt-2">
                 <a href="">
                     Забыли пароль?
@@ -129,6 +130,5 @@
 <div id="root"></div>
 
 <script src="js/app.js" type="module"></script>
-
 </body>
 </html>
