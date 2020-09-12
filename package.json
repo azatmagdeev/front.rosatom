@@ -4,18 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "live-server src"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azatmagdeev/hackaton-rosatom.git"
+    "url": "git+https://github.com/azatmagdeev/front.rosatom.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/azatmagdeev/hackaton-rosatom/issues"
+    "url": "https://github.com/azatmagdeev/front.rosatom/issues"
   },
-  "homepage": "https://github.com/azatmagdeev/hackaton-rosatom#readme",
+  "homepage": "https://github.com/azatmagdeev/front.rosatom#readme",
   "dependencies": {
     "live-server": "^1.2.1"
   }
