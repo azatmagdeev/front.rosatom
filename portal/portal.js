@@ -11,15 +11,15 @@ xhr.send();
 
 const formsContainer = document.getElementById('forms-container');
 const more = document.getElementById('more');
-// more.addEventListener('click',()=>{
-    // const sendForms = document.querySelectorAll('.sendDataForm');
-    // const newForm = sendForms[sendForms.length-1].cloneNode(true);
-    // for (let i = 0; i < newForm.length; i++) {
-    //     newForm[i].value = '';
-    // }
-    // formsContainer.appendChild(newForm);
-    // sendForms[sendForms.length-1].style.display='block';
-// });
+more.addEventListener('click',()=>{
+    const sendForms = document.querySelectorAll('.sendDataForm');
+    const newForm = sendForms[sendForms.length-1].cloneNode(true);
+    for (let i = 0; i < newForm.length; i++) {
+        newForm[i].value = '';
+    }
+    formsContainer.appendChild(newForm);
+    sendForms[sendForms.length-1].style.display='block';
+});
 
 formsContainer.addEventListener('click',(e)=>{
     e.preventDefault();
@@ -100,7 +100,7 @@ document.getElementById('send-report').addEventListener('click',(e)=>{
     document.getElementById('my-reports-main').style.display='none';
 });
 
-document.getElementById('exit'),addEventListener('click',()=>{
+document.getElementById('exit').addEventListener('click',()=>{
     history.back();
 });
 
