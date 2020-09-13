@@ -100,5 +100,7 @@ document.getElementById('send-report').addEventListener('click',(e)=>{
     document.getElementById('my-reports-main').style.display='none';
 });
 
-
+document.getElementById('exit'),addEventListener('click',()=>{
+    history.back();
+});
 
