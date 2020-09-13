@@ -1,6 +1,6 @@
 
 const xhr = new XMLHttpRequest();
-xhr.open('get','http://3.126.220.47:8000/api/ping', true);
+xhr.open('get','/api/ping', true);
 // xhr.overrideMimeType('text/xml');
 xhr.setRequestHeader('Accept', 'MIME_type');
 xhr.addEventListener('load',()=>{
@@ -62,7 +62,7 @@ class Report{
    send(){
        console.log(this);
        const xhr = new XMLHttpRequest();
-       xhr.open('post','http://3.126.220.47:8000/api/setContract',);
+       xhr.open('post','/api/setContract');
 
        xhr.setRequestHeader('Content-Type', 'application/json');
        xhr.addEventListener('load',()=>{
