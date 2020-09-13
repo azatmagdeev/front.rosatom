@@ -39,6 +39,16 @@ formsContainer.addEventListener('click',(e)=>{
 })
 
 
+class Report{
+   constructor(bic, date, amount, currency){
+        this.bic = bic;
+        this.date = date;
+        this.amount = amount;
+        this.currency = currency;
+   }
+}
+
+
 
 
 

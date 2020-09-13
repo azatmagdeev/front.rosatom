@@ -11,7 +11,7 @@
           crossorigin="anonymous">
     <title>Росатом. Финансовая отчетность</title>
     <style>
-        *{
+        * {
             box-sizing: border-box;
         }
 
@@ -42,35 +42,36 @@
 
 
         }
-        #loading{
-            position:absolute;
+
+        #loading {
+            position: absolute;
             z-index: 10;
             width: 100vw;
             height: 100vh;
-            background-color: rgba(100%,100%,100%,.8);
-            display:none;
+            background-color: rgba(100%, 100%, 100%, .8);
+            display: none;
             justify-content: center;
             align-items: center;
         }
 
-        #loading img{
+        #loading img {
             animation: loading-animation 1.7s infinite linear;
         }
 
         @keyframes loading-animation {
-            0%, 100%{
-                transform: scale(1,1);
+            0%, 100% {
+                transform: scale(1, 1);
             }
-            50%{
-                transform: scale(1.2,1.2)
+            50% {
+                transform: scale(1.2, 1.2)
             }
         }
 
-        #background{
-            position:fixed;
+        #background {
+            position: fixed;
             z-index: -5;
-            height:100vh;
-            width:100vw;
+            height: 100vh;
+            width: 100vw;
             background-image: url("../img/background.jpg");
             background-size: cover;
         }
@@ -90,7 +91,7 @@
     <div class="container">
         <div class="row ">
             <div class="col  m-1 col-sm-3">
-<!--                <img src="../img/site_rosatom_ru.png" alt="">-->
+                <!--                <img src="../img/site_rosatom_ru.png" alt="">-->
             </div>
             <div class="col bg-secondary m-1 col-sm-7">
                 <h4 class="text-white ">
@@ -116,8 +117,8 @@
 
     <div class="row ">
         <div class="col  m-1 col-sm-3 ">
-            <div class="row mb-2 bg-light">
-                <div class="col  mb-2">Просмотр отчетности</div>
+            <div class="row mb-2 bg-info">
+                <div class="col  mb-2 pt-2">Отправить отчет</div>
             </div>
             <div class="row mb-2 bg-light">
                 <div class="col mb-2">Общие сведения</div>
@@ -129,7 +130,7 @@
                 <div class="col  mb-2" style="height:50vh">Информация об организации</div>
             </div>
 
-            <div  class=""></div>
+            <div class=""></div>
         </div>
         <div class="col bg-light m-1 col-sm-8 " style="border: 2px solid black">
             <div class="container">
@@ -140,25 +141,26 @@
                                 <div class="form-group row">
                                     <label for="example-text-input" class="col-sm-3 col-form-label">Наименование</label>
                                     <div class="col-sm-8 p-0">
-                                        <input class="form-control" type="text" value="" id="example-text-input">
+                                        <input class="form-control" type="text" value="">
                                     </div>
                                 </div>
                                 <div class="form-group row">
                                     <label for="example-text-input" class="col-sm-3 col-form-label">БИК</label>
                                     <div class="col-sm-8 p-0">
-                                        <input class="form-control" type="text" value="" id="example-text-input">
+                                        <input class="form-control" type="text" value="">
                                     </div>
                                 </div>
                                 <div class="form-group row">
                                     <label for="example-text-input" class="col-sm-3 col-form-label">Валюта</label>
                                     <div class="col-sm-8 p-0 ">
-                                        <input class="form-control" type="text" value="" id="example-text-input">
+                                        <input class="form-control" type="text" value="">
                                     </div>
                                 </div>
                                 <div class="form-group row">
-                                    <label for="example-text-input" class="col-sm-3 col-form-label">Сумма в валюте</label>
+                                    <label for="example-text-input" class="col-sm-3 col-form-label">Сумма в
+                                        валюте</label>
                                     <div class="col-sm-8 p-0">
-                                        <input class="form-control" type="text" value="" id="example-text-input">
+                                        <input class="form-control" type="text" value="">
                                     </div>
                                 </div>
                                 <div class="form-group row">
@@ -166,15 +168,6 @@
                                     <div class="col-sm-8 p-0">
                                         <input class="form-control" type="text" value="" id="example-text-input">
                                     </div>
-                                </div>
-                                <div class="form-group row ">
-                                    <!--                                -->
-                                    <!--                                <label for="example-text-input" class="col-sm-3 col-form-label">Комментарий</label>-->
-                                    <!--                                <div class="col-sm-8">-->
-                                    <!--                                    <input class="form-control" type="text" value="" id="example-text-input">-->
-                                    <!--                                </div>-->
-
-
                                 </div>
                             </form>
                         </div>
@@ -187,46 +180,39 @@
                                 <div class="form-group row">
                                     <label for="example-text-input" class="col-sm-3 col-form-label">Наименование</label>
                                     <div class="col-sm-8 p-0">
-                                        <input class="form-control" type="text" value="" id="example-text-input">
+                                        <input class="form-control" type="text" value="">
                                     </div>
                                     <div class="col-sm-1">
-                                        <button class="btn btn-outline-warning  text-warning rounded-circle" >x</button>
+                                        <button class="btn btn-outline-warning  text-warning rounded-circle">x</button>
                                     </div>
 
                                 </div>
                                 <div class="form-group row">
                                     <label for="example-text-input" class="col-sm-3 col-form-label">БИК</label>
                                     <div class="col-sm-8 p-0">
-                                        <input class="form-control" type="text" value="" id="example-text-input">
+                                        <input class="form-control" type="text" value="">
                                     </div>
                                 </div>
                                 <div class="form-group row">
                                     <label for="example-text-input" class="col-sm-3 col-form-label">Валюта</label>
                                     <div class="col-sm-8 p-0 ">
-                                        <input class="form-control" type="text" value="" id="example-text-input">
+                                        <input class="form-control" type="text" value="">
                                     </div>
                                 </div>
                                 <div class="form-group row">
-                                    <label for="example-text-input" class="col-sm-3 col-form-label">Сумма в валюте</label>
+                                    <label for="example-text-input" class="col-sm-3 col-form-label">Сумма в
+                                        валюте</label>
                                     <div class="col-sm-8 p-0">
-                                        <input class="form-control" type="text" value="" id="example-text-input">
+                                        <input class="form-control" type="text" value="">
                                     </div>
                                 </div>
                                 <div class="form-group row">
                                     <label for="example-text-input" class="col-sm-3 col-form-label">Комментарий</label>
                                     <div class="col-sm-8 p-0">
-                                        <input class="form-control" type="text" value="" id="example-text-input">
+                                        <input class="form-control" type="text" value="">
                                     </div>
                                 </div>
-                                <div class="form-group row ">
-                                    <!--                                -->
-                                    <!--                                <label for="example-text-input" class="col-sm-3 col-form-label">Комментарий</label>-->
-                                    <!--                                <div class="col-sm-8">-->
-                                    <!--                                    <input class="form-control" type="text" value="" id="example-text-input">-->
-                                    <!--                                </div>-->
 
-
-                                </div>
                             </form>
                         </div>
 
@@ -234,7 +220,7 @@
                 </div>
 
                 <div class="row mb-4">
-                    <button class="btn btn-outline-secondary col-sm-4" id="more">Еще одна форма</button>
+                    <button class="btn btn-outline-secondary col-sm-4" id="more">Добавить счет</button>
                     <div class="col-sm-3"></div>
                     <button class="btn btn-primary col-sm-4">Отправить</button>
                 </div>
