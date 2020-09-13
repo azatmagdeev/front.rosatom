@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "live-server src"
+    "serve": "live-server"
   },
   "repository": {
     "type": "git",
