@@ -1,6 +1,6 @@
-
+console.log(window.location.origin);
 const xhr = new XMLHttpRequest();
-xhr.open('get','api/ping', true);
+xhr.open('get',window.location.origin+':8000/api/ping', true);
 xhr.addEventListener('load',()=>{
     console.log(xhr.responseText);
 });
