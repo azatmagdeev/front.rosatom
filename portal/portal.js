@@ -1,6 +1,6 @@
 console.log(window.location.origin);
 const xhr = new XMLHttpRequest();
-xhr.open('get',window.location.origin+':8000/api/ping', true);
+xhr.open('get',window.location.origin+'/api/ping', true);
 xhr.addEventListener('load',()=>{
     console.log(xhr.responseText);
 });
@@ -60,7 +60,7 @@ class Report{
    send(){
        console.log(this);
        const xhr = new XMLHttpRequest();
-       xhr.open('post','/api/setContract');
+       xhr.open('post',window.location.origin+'/api/setContract');
 
        xhr.setRequestHeader('Content-Type', 'application/json');
        xhr.addEventListener('load',()=>{
