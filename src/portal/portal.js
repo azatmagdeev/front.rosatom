@@ -1,8 +1,10 @@
 
 const xhr = new XMLHttpRequest();
-xhr.open('get','http://3.126.220.47:8000/api/ping/');
+xhr.open('get','http://3.126.220.47:8000/api/ping');
+// xhr.overrideMimeType('text/xml');
+// xhr.setRequestHeader('Content-Type', 'text');
 xhr.addEventListener('load',()=>{
-    console.log(xhr.responseText);
+    console.log(xhr.response);
 });
 xhr.send();
 
