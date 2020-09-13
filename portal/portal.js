@@ -1,10 +1,8 @@
 
 const xhr = new XMLHttpRequest();
-xhr.open('get','/api/ping', true);
-// xhr.overrideMimeType('text/xml');
-xhr.setRequestHeader('Accept', 'MIME_type');
+xhr.open('get','api/ping', true);
 xhr.addEventListener('load',()=>{
-    console.log(xhr.response);
+    console.log(xhr.responseText);
 });
 xhr.send();
 
